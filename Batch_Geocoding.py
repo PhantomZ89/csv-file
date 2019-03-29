@@ -34,7 +34,7 @@ logger.addHandler(ch)
 # With API_KEY = None, you will run into a 2 second delay every 10 requests or so.
 # With a "Google Maps Geocoding API" key from https://console.developers.google.com/apis/, 
 # the daily limit will be 2500, but at a much faster rate.
-API_KEY = 'AIzaSyCeKfUE_yKxsQTrfBn487la1GVdCWDw9tE'
+API_KEY = None
 # Backoff time sets how many minutes to wait between google pings when your API limit is hit
 BACKOFF_TIME = 30
 # Set your output file name here.
