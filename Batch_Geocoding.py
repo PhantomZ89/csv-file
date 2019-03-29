@@ -38,9 +38,9 @@ API_KEY = 'AIzaSyCeKfUE_yKxsQTrfBn487la1GVdCWDw9tE'
 # Backoff time sets how many minutes to wait between google pings when your API limit is hit
 BACKOFF_TIME = 30
 # Set your output file name here.
-output_filename = 'output.xlsx'
+output_filename = 'output.csv'
 # Set your input file here
-input_filename = 'input.xlsx'
+input_filename = 'input.csv'
 # Specify the column name in your input data that contains addresses here
 address_column_name = 'ADDRESS1'
 # Return Full Google Results? If True, full JSON results from Google are included in output
@@ -49,14 +49,14 @@ RETURN_FULL_RESULTS = False
 #------------------ DATA LOADING --------------------------------
 
 # Read the data to a Pandas Dataframe
-data = pd.read_excel(input_filename)
+data = pd.read_csv(input_filename)
 
 if address_column_name not in data.columns:
 	raise ValueError("Missing Address column in input data")
 
 # Form a list of addresses for geocoding:
 # Make a big list of all of the addresses to be processed.
-addresses = (data[address_column_name] + ',' + data['CITY'] + ',' + data['STATE'] + ',' + ',Canada,' + data['ZIPCODE']).tolist()
+addresses = (data[address_column_name] + ',' + data['CITY'] + ',' + data['STATE'] + ',' + 'Canada,' + data['ZIPCODE']).tolist()
 
 #------------------	FUNCTION DEFINITIONS ------------------------
 
