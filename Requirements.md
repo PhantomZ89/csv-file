@@ -7,3 +7,4 @@
 # Other Requirements
 1. Google Maps API Key with geocoding allowed
 2. No spaces in ZIP Codes
+3. No "#" character in address string
