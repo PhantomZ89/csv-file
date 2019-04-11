@@ -154,12 +154,12 @@ for address in addresses:
             results.append(geocode_result)           
             geocoded = True
 
-    # Print status every 100 addresses
+    # Print status every 100 addresses, save progress to file(in case of a failure so you have something!)
     if len(results) % 100 == 0:
     	logger.info("Completed {} of {} address".format(len(results), len(addresses)))
             
-    # Every 500 addresses, save progress to file(in case of a failure so you have something!)
-    if len(results) % 500 == 0:
+    # Repeating if statement because editor kept throwing inconsistent indent and space use error
+    if len(results) % 100 == 0:
         pd.DataFrame(results).to_csv("{}_bak".format(output_filename))
 
 # All done
