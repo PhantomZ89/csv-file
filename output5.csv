@@ -1,0 +1,401 @@
+,accuracy,formatted_address,google_place_id,input_string,latitude,longitude,number_of_results,postcode,status,type
+0,ROOFTOP,"40 Matheson St S, Kenora, ON P9N 1T6, Canada",ChIJqzZT4YEIvlIRUo7mZHpqIy8,"40 Matheson St South,Kenora,ON,Canada,P9N1T6",49.7676568,-94.4887974,1,P9N 1T6,OK,subpremise
+1,ROOFTOP,"40 McEwan Dr E, Bolton, ON L7E 2Y3, Canada",ChIJdZ0a6YshK4gRD08-06ujw5U,"40 McEwan Dr. E,Bolton,ON,Canada,L7E2Y3",43.8633838,-79.71286719999999,1,L7E 2Y3,OK,premise
+2,ROOFTOP,"40 McEwan Dr E, Bolton, ON L7E 2Y3, Canada",ChIJdZ0a6YshK4gRD08-06ujw5U,"40 McEwan Drive E,Bolton,ON,Canada,L7E2Y3",43.8633838,-79.71286719999999,1,L7E 2Y3,OK,premise
+3,ROOFTOP,"40 Park Ave, Lac du Bonnet, MB R0E 1A0, Canada",ChIJQWdZeGE0lVIR1pSinjRi8Lo,"40 Park Ave,Lac Du Bonnet,MB,Canada,R0E1A0",50.2570715,-96.05841939999999,1,R0E 1A0,OK,premise
+4,ROOFTOP,"40 Quarry St, Cochrane, AB T4C 2B7, Canada",ChIJFwhMuX0_cVMRA4gqmOlfBfE,"40 Quarry Street East,Cochrane,AB,Canada,T4C0W6",51.183667,-114.4697825,1,T4C 2B7,OK,premise
+5,ROOFTOP,"40 Rue Évangéline, Granby, QC J2G 8K1, Canada",ChIJ81M8F4zOyUwRFNdmwbTl3KQ,"40 Rue Evangeline,Granby,QC,Canada,J2G8K1",45.4153251,-72.7498547,1,J2G 8K1,OK,street_address
+6,ROOFTOP,"40 Rue Évangéline, Granby, QC J2G 8K1, Canada",ChIJ81M8F4zOyUwRFNdmwbTl3KQ,"40 Rue Evangeline,Granby,QC,Canada,J2G8K1",45.4153251,-72.7498547,1,J2G 8K1,OK,street_address
+7,ROOFTOP,"40 Rue Évangéline, Granby, QC J2G 8K1, Canada",ChIJ81M8F4zOyUwRFNdmwbTl3KQ,"40 Rue Evangeline,Granby,QC,Canada,J2G8K1",45.4153251,-72.7498547,1,J2G 8K1,OK,street_address
+8,ROOFTOP,"40 Rue Évangéline, Granby, QC J2G 8K1, Canada",ChIJ81M8F4zOyUwRFNdmwbTl3KQ,"40 Rue Evangeline,Granby,QC,Canada,J2G8K1",45.4153251,-72.7498547,1,J2G 8K1,OK,street_address
+9,ROOFTOP,"40 Rue Évangéline, Granby, QC J2G 8K1, Canada",ChIJ81M8F4zOyUwRFNdmwbTl3KQ,"40 Rue Evangeline,Granby,QC,Canada,J2G8K1",45.4153251,-72.7498547,1,J2G 8K1,OK,street_address
+10,ROOFTOP,"40 Rue Évangéline, Granby, QC J2G 8K1, Canada",ChIJ81M8F4zOyUwRFNdmwbTl3KQ,"40 Rue Evangeline,Granby,QC,Canada,J2G8K1",45.4153251,-72.7498547,1,J2G 8K1,OK,street_address
+11,ROOFTOP,"40 Rue Évangéline, Granby, QC J2G 8K1, Canada",ChIJ81M8F4zOyUwRFNdmwbTl3KQ,"40 Rue Evangeline,Granby,QC,Canada,J2G8K1",45.4153251,-72.7498547,1,J2G 8K1,OK,street_address
+12,ROOFTOP,"40 Rue Évangéline, Granby, QC J2G 8K1, Canada",ChIJ81M8F4zOyUwRFNdmwbTl3KQ,"40 Rue Evangeline,Granby,QC,Canada,J2G8K1",45.4153251,-72.7498547,1,J2G 8K1,OK,street_address
+13,ROOFTOP,"40 Rue de Strasbourg, Candiac, QC J5R 0B4, Canada",ChIJKQw33UsMyUwRT59s8sg457o,"40 Rue Strasbourg,Candiac,QC,Canada,J5R0B4",45.3692617,-73.5180534,1,J5R 0B4,OK,subpremise
+14,ROOFTOP,"400 Avenue Dorval, Dorval, QC H9S 3H7, Canada",ChIJd_JZzCEWyUwRpTop075iYsM,"400 ave Dorval,Dorval,QC,Canada,J1X2T5",45.4452236,-73.74298739999999,2,H9S 3H7,OK,street_address
+15,ROOFTOP,"400 Boulevard du Séminaire N, Saint-Jean-sur-Richelieu, QC J3B 5L2, Canada",ChIJT9i56TWiyUwRVeZq12JmGws,"400 Boulevard Seminaire Nord,St-Jean-Sur-Richelieu,QC,Canada,J3B5L2",45.3115473,-73.2670444,1,J3B 5L2,OK,street_address
+16,ROOFTOP,"400 Boulevard Saint-Joseph, Drummondville, QC J2C 2A8, Canada",ChIJ009O6MsTyEwR8y0vE6ZlSqQ,"400 Boulevard St-Joseph,Drummondville,QC,Canada,J2C2A8",45.8965962,-72.51755039999999,1,J2C 2A8,OK,premise
+17,ROOFTOP,"400 Kent St W, Lindsay, ON K9V 6E3, Canada",ChIJNa2MjcJ71YkR_O3wVHvO3Zo,"400 Kent St W,Lindsay,ON,Canada,K9V6K2",44.3507367,-78.7615575,1,K9V 6E3,OK,street_address
+18,ROOFTOP,"400 King St #1500, Estevan, SK S4A 2B4, Canada",Ei4xNTAwLCA0MDAgS2luZyBTdCwgRXN0ZXZhbiwgU0sgUzRBIDJCNCwgQ2FuYWRhIiAaHgoWChQKEgkrM6IymCIgUxHbM2qP80JiSBIEMTUwMA,"400 King St Unit 1500,Estevan,SK,Canada,S4A2B4",49.14561,-102.978022,1,S4A 2B4,OK,subpremise
+19,ROOFTOP,"400 King St, Estevan, SK S4A 2B4, Canada",ChIJKzOiMpgiIFMR2zNqj_NCYkg,"400 King Street,Estevan,SK,Canada,S4A2B4",49.14561,-102.978022,1,S4A 2B4,OK,street_address
+20,ROOFTOP,"400 McDonald St, Regina, SK S4N 6E1, Canada",ChIJLxqSKAofHFMR06LRKrhL4bU,"400 McDonald St.,Regina,SK,Canada,S4N6E1",50.4726711,-104.5829049,1,S4N 6E1,OK,street_address
+21,ROOFTOP,"400 QC-132, Saint-Constant, QC J5A 2J8, Canada",ChIJJzHVlxASyUwRdlccUYw8Iys,"400 Route 132,St-Constant,QC,Canada,J5A2E7",45.3920445,-73.5824806,1,J5A 2J8,OK,street_address
+22,ROOFTOP,"400 Rue Barkoff, Trois-Rivières, QC G8T 9P5, Canada",ChIJqwv2rvTIx0wRlL4Y3vmDAik,"400 rue Barkhoff,Trois Rivieres,QC,Canada,G8T9P5",46.3746477,-72.5558756,1,G8T 9P5,OK,premise
+23,ROOFTOP,"400 Rue Laverdure, Sainte-Agathe-des-Monts, QC J8C 1K9, Canada",ChIJZ8MBE00Vz0wR72pNsdd0bPk,"400 Rue Laverdure,Ste-Agathe-Des-Monts,QC,Canada,J8C0A2",46.04348160000001,-74.27474649999999,1,J8C 1K9,OK,premise
+24,ROOFTOP,"400 Sandwich St S, Amherstburg, ON N9V 3L4, Canada",ChIJCXgvI5A8O4gR8ILFpJlB3VM,"400 Sandwich St,Amherstburg,ON,Canada,N9V3L4",42.0965682,-83.1098639,1,N9V 3L4,OK,street_address
+25,ROOFTOP,"400 Sandwich St S, Amherstburg, ON N9V 3L4, Canada",ChIJCXgvI5A8O4gR8ILFpJlB3VM,"400 SANDWICH ST S,Amherstburg,ON,Canada,N9V3L4",42.0965682,-83.1098639,1,N9V 3L4,OK,street_address
+26,ROOFTOP,"4000 Boulevard des Récollets, Trois-Rivières, QC G9A 6K9, Canada",ChIJLyaYEVvPx0wRmHRUfvY2CyQ,"4000 Boulevard des Récollets,Trois Rivieres,QC,Canada,G9A6K9",46.3282672,-72.5679763,1,G9A 6K9,OK,subpremise
+27,ROOFTOP,"4004 50 Ave, Athabasca, AB T9S 1M2, Canada",ChIJT1NJa23Xo1MR2wlw80lV4Hw,"4004 50 Ave,Athabasca,AB,Canada,T9S1M2",54.7210615,-113.2702917,1,T9S 1M2,OK,premise
+28,ROOFTOP,"4006 Johnston Rd, Port Alberni, BC V9Y 5N3, Canada",ChIJf1gTU-X2iFQRQtUD6erM3uk,"4006 Johnston Road,Port Alberni,BC,Canada,V9Y5N3",49.2637799,-124.794481,1,V9Y 5N3,OK,street_address
+29,ROOFTOP,"400 Emerald Dr, Sherwood Park, AB T8H 0P5, Canada",ChIJxeVm-uw9oFMRKHmZa_SQDMg,"400-7000 EMERALD DR,Sherwood Park,AB,Canada,T8H0P5",53.5649666,-113.293331,1,T8H 0P5,OK,street_address
+30,ROOFTOP,"401 Boulevard Curé-Labelle, Rosemère, QC J7A 3T2, Canada",ChIJlduWnLMnyUwRXzK7NUnC27Y,"401 Boulevard Cure-Labelle,Rosemere,QC,Canada,J7A3T2",45.6314047,-73.8178734,1,J7A 3T2,OK,street_address
+31,ROOFTOP,"401 Boulevard Curé-Labelle, Rosemère, QC J7A 3T2, Canada",ChIJlduWnLMnyUwRXzK7NUnC27Y,"401 Boulevard Cure-Labelle,Rosemere,QC,Canada,J7A3T2",45.6314047,-73.8178734,1,J7A 3T2,OK,street_address
+32,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+33,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+34,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+35,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+36,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+37,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+38,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+39,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+40,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+41,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+42,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+43,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+44,ROOFTOP,"401 Boul Labelle, Rosemère, QC J7A 3T2, Canada",ChIJi6UTQLMnyUwRZ_1P43qmqgA,"401 Boulevard Labelle,Rosemere,QC,Canada,J7A3T2",45.6306061,-73.8172305,1,J7A 3T2,OK,subpremise
+45,ROOFTOP,"401 Kent St W, Lindsay, ON K9V 4Z1, Canada",ChIJZ6_pOMN71YkRB0-kEsRlga8,"401 Kent St W,Lindsay,ON,Canada,K9V4Z1",44.3485431,-78.7601955,1,K9V 4Z1,OK,premise
+46,ROOFTOP,"401 Kent St W, Lindsay, ON K9V 4Z1, Canada",ChIJZ6_pOMN71YkRB0-kEsRlga8,"401 Kent St W,Lindsay,ON,Canada,K9V4Z1",44.3485431,-78.7601955,1,K9V 4Z1,OK,premise
+47,ROOFTOP,"401 Kent St W, Lindsay, ON K9V 4Z1, Canada",ChIJZ6_pOMN71YkRB0-kEsRlga8,"401 Kent St W,Lindsay,ON,Canada,K9V4Z1",44.3485431,-78.7601955,1,K9V 4Z1,OK,premise
+48,ROOFTOP,"40242 Glenalder Pl, Squamish, BC V8B 0G2, Canada",ChIJLS_alwn5hlQRz-DpKRb7I4w,"40242 Glenalder Place,Squamish,BC,Canada,V8B0G2",49.7380187,-123.1335502,1,V8B 0G2,OK,street_address
+49,ROOFTOP,"4025 Dorchester Rd, Niagara Falls, ON L2E 6N1, Canada",ChIJLbwWS6pE04kRfYEOgwWtUXA,"4025 Dorchester Road,Niagara Falls,ON,Canada,L2E7K8",43.11463380000001,-79.11242519999999,1,L2E 6N1,OK,street_address
+50,ROOFTOP,"40282 Glenalder Pl, Squamish, BC V8B 0G2, Canada",ChIJH1nVnAn5hlQR9X8WwENLCkk,"40282 Glenalder Pl,Squamish,BC,Canada,V8B0G2",49.7386621,-123.1333327,1,V8B 0G2,OK,subpremise
+51,ROOFTOP,"403 Bank St, Ottawa, ON K2P 1Y6, Canada",ChIJAdWIBa4FzkwR2gmJhdT3o-U,"403 Bank Street,Ottawa,ON,Canada,K2P1Y6",45.4131143,-75.6937765,1,K2P 1Y6,OK,premise
+52,ROOFTOP,"4030 Rue Ontario E, Montréal, QC H1W 1T2, Canada",ChIJEWVszYkbyUwRStUUoEEJQEM,"4030 Rue Ontario Est,Montreal,QC,Canada,H1W1T2",45.54966,-73.54146209999999,1,H1W 1T2,OK,street_address
+53,ROOFTOP,"4036 Rue Ontario E, Montréal, QC H1W 1T2, Canada",ChIJ83ZC0okbyUwR_LfFtpxvj7o,"4036 Rue Ontario E,Montreal,QC,Canada,H1W1T2",45.549749,-73.541348,1,H1W 1T2,OK,street_address
+54,RANGE_INTERPOLATED,"4036 Rue Sainte-Catherine O, Westmount, QC H3Z 1P2, Canada",Ejo0MDM2IFJ1ZSBTYWludGUtQ2F0aGVyaW5lIE8sIFdlc3Rtb3VudCwgUUMgSDNaIDFQMiwgQ2FuYWRhIhsSGQoUChIJV1DJv3IayUwRPUCuyiMzEmsQxB8,"4036 rue Sainte-Catherine Ouest,Westmount,QC,Canada,H3Z1P2",45.48826,-73.5854676,1,H3Z 1P2,OK,street_address
+55,ROOFTOP,"4038 Hwy 7, Unionville, ON L3R 0W9, Canada",ChIJ40YLC03U1IkR3UUgf0lmtrI,"4038 Hwy 7 East,Markham,ON,Canada,L3R2L5",43.8592317,-79.32252629999999,1,L3R 0W9,OK,premise
+56,ROOFTOP,"404 La Ronge Ave, La Ronge, SK S0J 1L0, Canada",ChIJGb6HBnolVVIRP4LHfDlA9OY,"404 La Ronge Ave,La Ronge,SK,Canada,S0J1L0",55.09981819999999,-105.2975402,1,S0J 1L0,OK,street_address
+57,ROOFTOP,"40437 Tantalus Rd, Squamish, BC V8B 0N2, Canada",ChIJzaeg9Qv5hlQRsZLEsE2iAHI,"40437 Tantalus Rd.,Squamish,BC,Canada,V0N1T0",49.7414613,-123.1335442,1,V8B 0N2,OK,premise
+58,ROOFTOP,"40-445 St Albert Trail, St. Albert, AB T8N 6T9, Canada",ChIJvaLTpuYloFMRK1nLfY3utPU,"40-445 St. Albert Trail,St. Albert,AB,Canada,T8N6T9",53.6471938,-113.6255655,1,T8N 6T9,OK,premise
+59,ROOFTOP,"405 Sackville Dr, Lower Sackville, NS B4C 2R9, Canada",ChIJnSMNSPGIWUsRPfsYVc0BrRo,"405 Sackville Drive,Lower Sackville,NS,Canada,B4C2R9",44.7645203,-63.6759571,1,B4C 2R9,OK,premise
+60,ROOFTOP,"4050 Boulevard Josaphat-Rancourt, Sherbrooke, QC J1L 3C6, Canada",ChIJ1wabx_m0t0wRYtNQkrkHfdE,"4050 boul.Josaphat Ranc,Sherbrooke,QC,Canada,J1L3C6",45.4184244,-71.9640141,1,J1L 3C6,OK,"department_store,establishment,point_of_interest,store"
+61,ROOFTOP,"408 50 St, Edson, AB T7E 1T8, Canada",ChIJxUpdwHoinFMRVZBY8DvD_HQ,"408 50TH STREET,Edson,AB,Canada,T7E1T8",53.5832633,-116.4332589,1,T7E 1T8,OK,subpremise
+62,ROOFTOP,"4080 3 St E, Claresholm, AB T0L 0T0, Canada",ChIJOaoJTOE7blMRWsrwFKAJknY,"4080 3rd ST E,Claresholm,AB,Canada,T0L0T0",50.0149231,-113.5735216,1,T0L 0T0,OK,premise
+63,ROOFTOP,"4080 Hwy 7, Woodbridge, ON L4L 1A6, Canada",ChIJi5aOFfUvK4gRh9XWcuBiRzE,"4080 Hwy. 7,Woodbridge,ON,Canada,L4L1A6",43.7875644,-79.55871960000002,1,L4L 1A6,OK,premise
+64,ROOFTOP,"409 E Hills Blvd SE, Calgary, AB T1X 1G6, Canada",ChIJudv0h3x7cVMR8LkqPtqAXTg,"409 East Hills Blvd SE,Calgary,AB,Canada,T2A4X7",51.0389894,-113.908861,1,T1X 1G6,OK,street_address
+65,ROOFTOP,"41 Mapleview Dr E, Barrie, ON L4N 9A9, Canada",ChIJTyfko0W8KogRtCyHxfIA7w4,"41 Mapleview Drive East,Barrie,ON,Canada,L4N9A9",44.3341262,-79.6821337,1,L4N 9A9,OK,premise
+66,ROOFTOP,"41 Mapleview Dr E, Barrie, ON L4N 9A9, Canada",ChIJTyfko0W8KogRtCyHxfIA7w4,"41 Mapleview Drive East,Barrie,ON,Canada,L4N9A9",44.3341262,-79.6821337,1,L4N 9A9,OK,premise
+67,ROOFTOP,"410 Baseline Rd #100, Sherwood Park, AB T8H 2A7, Canada",EjcxMDAsIDQxMCBCYXNlbGluZSBSZCwgU2hlcndvb2QgUGFyaywgQUIgVDhIIDJBNywgQ2FuYWRhIh8aHQoWChQKEgnDbvG7JRagUxFrZ2yflSAxQRIDMTAw,"410 Baseline Road, Unit 100,Sherwood Park,AB,Canada,T8H2A7",53.5420482,-113.2931574,1,T8H 2A7,OK,subpremise
+68,ROOFTOP,"4100 70 Ave, Lloydminster, AB T9V 2X3, Canada",ChIJyVUmpG-yCVMRbfFZVVJDLXE,"4100 70 Ave,Lloydminster,AB,Canada,T9V1X3",53.27430099999999,-110.0476909,1,T9V 2X3,OK,street_address
+69,ROOFTOP,"4100 Baldwin St S, Whitby, ON L1R 3H8, Canada",ChIJrwPsyOge1YkR_mMBdmzT6Xs,"4100 BALDWIN ST S,Whitby,ON,Canada,L1R3H8",43.9178112,-78.9602882,1,L1R 3H8,OK,premise
+70,ROOFTOP,"411 Bayfield St, Barrie, ON L4M 5E5, Canada",ChIJL-1B9eWiKogR_BxuoCU9dgU,"411 Bayfield Street,Barrie,ON,Canada,L4M6E5",44.41021749999999,-79.706244,1,L4M 5E5,OK,premise
+71,GEOMETRIC_CENTER,"411 Confederation Dr, Saskatoon, SK S7L 5C3, Canada",ChIJrZlLj133BFMRqcca0uxOpEU,"411 Confederation Rd,Saskatoon,SK,Canada,S7L5C3",52.1319863,-106.726012,1,S7L 5C3,OK,premise
+72,ROOFTOP,"411 Louth St, St. Catharines, ON L2S 4A2, Canada",ChIJy0N4zr9R04kRqD9bwFHbmCM,"411 Louth Street,St. Catharines,ON,Canada,L2S4A2",43.1538816,-79.26656059999999,1,L2S 4A2,OK,premise
+73,ROOFTOP,"4115 Walker Rd, Windsor, ON N8W 5M1, Canada",ChIJCQdkaJssO4gR03RD6qONWBU,"4115 Walker Rd,Windsor,ON,Canada,N8W3T6",42.2609103,-82.9698935,1,N8W 5M1,OK,street_address
+74,ROOFTOP,"4118 Walker Rd, Windsor, ON N8W 3T5, Canada",ChIJD2toyN4rO4gR6M2L4RTMwCk,"4118 Walker Rd,Windsor,ON,Canada,N8W3T5",42.2605831,-82.9668949,1,N8W 3T5,OK,subpremise
+75,ROOFTOP,"412 St Clair St, Chatham, ON N7L 3K5, Canada",ChIJ2aHWp2_4L4gR_t-QSMMA4ik,"412 St. Clair St,Chatham,ON,Canada,N7L3K5",42.414874,-82.20141869999999,1,N7L 3K5,OK,subpremise
+76,ROOFTOP,"4120 45A St, Rocky Mountain House, AB T4T 1A9, Canada",ChIJN0txdiHZdVMRar6llpnxKkI,"4120 45A St,Rocky Mountain House,AB,Canada,T4T1A9",52.361468,-114.9118613,1,T4T 1A9,OK,premise
+77,ROOFTOP,"4120 Dixie Rd, Mississauga, ON L4W 4V8, Canada",ChIJVwvCiYA4K4gRQjOFhmg1qEM,"4120 Dixie Rd ,Mississauga,ON,Canada,L4W4V8",43.62473199999999,-79.6064425,1,L4W 4V8,OK,street_address
+78,ROOFTOP,"4122 Calgary Trail, Edmonton, AB T6J 6Y6, Canada",ChIJwxFklTAfoFMR8EfEoO1lOb0,"4122 Calgary Trail,Edmonton,AB,Canada,T6J6Y6",53.4775525,-113.4985257,1,T6J 6Y6,OK,premise
+79,ROOFTOP,"4125 Boulevard des Forges, Trois-Rivières, QC G8Y 1W1, Canada",ChIJA1DOSdrIx0wR55_UtqNiaps,"4125 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y1W1",46.35577809999999,-72.58838589999999,1,G8Y 1W1,OK,street_address
+80,ROOFTOP,"4125 Boulevard des Forges, Trois-Rivières, QC G8Y 1W1, Canada",ChIJA1DOSdrIx0wR55_UtqNiaps,"4125 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y1W1",46.35577809999999,-72.58838589999999,1,G8Y 1W1,OK,street_address
+81,ROOFTOP,"413 Kensington Ave, Bienfait, SK S0C 0M0, Canada",ChIJ_bxFHqAiIFMRFy7ye7v3cxA,"413 Kensington Ave,Estevan,SK,Canada,S4A2A5",49.1443269,-102.9659293,1,S0C 0M0,OK,premise
+82,ROOFTOP,"413 Main St NW, Slave Lake, AB T0G 2A1, Canada",ChIJ6-z9e56SolMRgzXZ0U-fLEc,"413 Main St NE,SLAVE LAKE,AB,Canada,T0G2A4",55.2857078,-114.7714037,1,T0G 2A1,OK,street_address
+83,ROOFTOP,"4130 Rue Wellington, Verdun, QC H4G 1V7, Canada",ChIJr0xqJmQQyUwRgGEy8fh1cEU,"4130 Rue Wellington,Verdun,QC,Canada,H4G1V7",45.4623786,-73.5668508,1,H4G 1V7,OK,street_address
+84,ROOFTOP,"4131 Rochdale Blvd, Regina, SK S4N 1K5, Canada",ChIJY17Rl8geHFMR4ZspXm7fuJE,"4131 Rochdale Blvd,Regina,SK,Canada,S4X4P7",50.4960864,-104.6403918,1,S4N 1K5,OK,subpremise
+85,ROOFTOP,"4141 Dixie Rd, Mississauga, ON L4W 1V5, Canada",ChIJwaKIJH44K4gR1VDhieNx2hc,"4141 Dixie Rd,Mississauga,ON,Canada,L4W1V5",43.625224,-79.6040702,1,L4W 1V5,OK,street_address
+86,ROOFTOP,"4141 Dixie Rd, Mississauga, ON L4W 1V5, Canada",ChIJwaKIJH44K4gR1VDhieNx2hc,"4141 Dixie Rd,Mississauga,ON,Canada,L4W1V5",43.625224,-79.6040702,1,L4W 1V5,OK,street_address
+87,ROOFTOP,"415 Montée Industrielle-et-Commerciale, Rimouski, QC G5M 1Y1, Canada",ChIJ2fGstsvZlUwRAPK7aB-_8KU,"415 Montee industrielle et Commerciale,Rimouski,QC,Canada,G5M1Y1",48.45369240000001,-68.49778239999999,1,G5M 1Y1,OK,street_address
+88,ROOFTOP,"415 The Westway, Etobicoke, ON M9R 1H5, Canada",ChIJCzQoeuM5K4gRZv4EQrn481Q,"415 The Westway,Etobicoke,ON,Canada,M9R1H5",43.6830383,-79.56587549999999,1,M9R 1H5,OK,premise
+89,,,,"4151 Hazelbridge Way, #1050,RICHMOND,BC,Canada,V6X4J7",,,0,,REQUEST_DENIED,
+90,,,,"4151 Hazelbridge Way, #1230,RICHMOND,BC,Canada,V6X4J7",,,0,,REQUEST_DENIED,
+91,,,,"4151 Hazelbridge Way, #1295,RICHMOND,BC,Canada,V6X4J7",,,0,,REQUEST_DENIED,
+92,,,,"4151 Hazelbridge Way, #1410,RICHMOND,BC,Canada,V6X4J7",,,0,,REQUEST_DENIED,
+93,,,,"4151 Hazelbridge Way, #1910,RICHMOND,BC,Canada,V6X4J7",,,0,,REQUEST_DENIED,
+94,,,,"4151 Hazelbridge Way, #2082,RICHMOND,BC,Canada,V6X4J7",,,0,,REQUEST_DENIED,
+95,,,,"4151 Hazelbridge Way, #2750,RICHMOND,BC,Canada,V6X4J7",,,0,,REQUEST_DENIED,
+96,RANGE_INTERPOLATED,"4154 Rue Jean-Talon, Saint-Léonard, QC H1S 1J7, Canada",Ei80MTU0IFJ1ZSBKZWFuLVRhbG9uLCBTYWludC1Mw6lvbmFyZCwgUUMsIENhbmFkYSIbEhkKFAoSCYeEL9C5HslMEY1zGjPNATQnELog,"4154 Rue Jean-Talon Est,St-Leonard,QC,Canada,H1S2V4",45.56793039999999,-73.5901123,1,H1S 1J7,OK,street_address
+97,ROOFTOP,"4160 Baldwin St S, Whitby, ON L1R 3H8, Canada",ChIJF6ZeUuge1YkRrcsGTfqKD74,"4160 Baldwin St S,Whitby,ON,Canada,L1R3H8",43.9192025,-78.96019980000001,1,L1R 3H8,OK,premise
+98,ROOFTOP,"4160 Baldwin St S, Whitby, ON L1R 3H8, Canada",ChIJF6ZeUuge1YkRrcsGTfqKD74,"4160 Baldwin St S,Whitby,ON,Canada,L1R3H8",43.9192025,-78.96019980000001,1,L1R 3H8,OK,premise
+99,ROOFTOP,"4160 Baldwin St S #9, Whitby, ON L1R 3H8, Canada",ChIJY5vsTege1YkRVDfg9PiPpz4,"4160 Baldwin St S, Bldg K, Unit 9,Whitby,ON,Canada,L1R3H8",43.9193173,-78.960244,1,L1R 3H8,OK,subpremise
+100,ROOFTOP,"417 Rue Barkoff, Trois-Rivières, QC G8T 2A5, Canada",ChIJ-_igoIzIx0wR5sgJDCeZq-s,"417 Barkoff St,Trois Rivieres,QC,Canada,G8T2A5",46.37391179999999,-72.5543082,1,G8T 2A5,OK,street_address
+101,ROOFTOP,"417 SK-48, Montmartre, SK S0G 3M0, Canada",ChIJA7sZ5-c_HlMRT_Bfz_5lwMw,"417 HWY 48,Montmartre,SK,Canada,S0G3M0",50.2219241,-103.4471318,1,S0G 3M0,OK,"electronics_store,establishment,point_of_interest,store"
+102,RANGE_INTERPOLATED,"419 Boulevard Jessop, Rimouski, QC G5L 1N6, Canada",EjI0MTkgQm91bGV2YXJkIEplc3NvcCwgUmltb3Vza2ksIFFDIEc1TCAxTjYsIENhbmFkYSIbEhkKFAoSCREbDV7m2ZVMEXKJ1jLnpb7eEKMD,"419  boul. Jessop,Rimouski,QC,Canada,G5L7Y5",48.4680049,-68.5159171,1,G5L 1N6,OK,street_address
+103,RANGE_INTERPOLATED,"419 Boulevard Jessop, Rimouski, QC G5L 1N6, Canada",EjI0MTkgQm91bGV2YXJkIEplc3NvcCwgUmltb3Vza2ksIFFDIEc1TCAxTjYsIENhbmFkYSIbEhkKFAoSCREbDV7m2ZVMEXKJ1jLnpb7eEKMD,"419  boul. Jessop,Rimouski,QC,Canada,G5L7Y5",48.4680049,-68.5159171,1,G5L 1N6,OK,street_address
+104,RANGE_INTERPOLATED,"419 Boulevard Jessop, Rimouski, QC G5L 1N6, Canada",EjI0MTkgQm91bGV2YXJkIEplc3NvcCwgUmltb3Vza2ksIFFDIEc1TCAxTjYsIENhbmFkYSIbEhkKFAoSCREbDV7m2ZVMEXKJ1jLnpb7eEKMD,"419 Boul. Jessop,Rimouski,QC,Canada,G5L7Y5",48.4680049,-68.5159171,1,G5L 1N6,OK,street_address
+105,RANGE_INTERPOLATED,"419 Boulevard Jessop, Rimouski, QC G5L 1N6, Canada",EjI0MTkgQm91bGV2YXJkIEplc3NvcCwgUmltb3Vza2ksIFFDIEc1TCAxTjYsIENhbmFkYSIbEhkKFAoSCREbDV7m2ZVMEXKJ1jLnpb7eEKMD,"419 Boulevard Jessop,Rimouski,QC,Canada,G5L7Y5",48.4680049,-68.5159171,1,G5L 1N6,OK,street_address
+106,,,,"419 Byrne Rd #100,Yellowknife,NT,Canada,Z1A2N1",,,0,,REQUEST_DENIED,
+107,ROOFTOP,"419 Centre St SE, High River, AB T1V 2C2, Canada",ChIJTeC0KT6VcVMR3Ec196Wje44,"419 Centre St South,High River,AB,Canada,T1V2C2",50.578647,-113.8712502,1,T1V 2C2,OK,subpremise
+108,ROOFTOP,"419 Kensington Ave, Estevan, SK S4A 2A7, Canada",ChIJF_Pyrp8iIFMRmKx_pGKmXHY,"419 Kensington Avenue,Estevan,SK,Canada,S4A0X7",49.1463866,-102.9683014,1,S4A 2A7,OK,premise
+109,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+110,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+111,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+112,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+113,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+114,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+115,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+116,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+117,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+118,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+119,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+120,ROOFTOP,"419 King St W, Oshawa, ON L1J 2H9, Canada",ChIJN6hhrwEd1YkRQ6mobsUsMps,"419 King St W,Oshawa,ON,Canada,L1J2K5",43.8907422,-78.87987009999999,1,L1J 2H9,OK,street_address
+121,ROOFTOP,"419 Rue du Sud, Cowansville, QC J2K, Canada",ChIJ05he6o7dyUwRAMjmZlsUnz4,"419 Rue du Sud,Cowansville,QC,Canada,J2K2X6",45.2040254,-72.74650079999999,1,J2K,OK,premise
+122,ROOFTOP,"4190 Boul St-Laurent, Montréal, QC H2W 1Z3, Canada",ChIJ5ck6Sc0byUwRxCv81FHNTJ4,"4190, Boul. St-Laurent,Montreal,QC,Canada,H2W1Z3",45.5180245,-73.58205199999999,1,H2W 1Z3,OK,street_address
+123,ROOFTOP,"4 1 St SW, Carman, MB R0G 0J0, Canada",ChIJ3VNgUJBswlIRx1snfIlYO2g,"4-1st Street SW,Carman,MB,Canada,R0G0J0",49.5083679,-98.0032316,1,R0G 0J0,OK,premise
+124,ROOFTOP,"42 Overlea Blvd, Toronto, ON M4H 1B6, Canada",ChIJS3T1l-TM1IkRPCkjURS7KmU,"42 Overlea Blvd,Toronto,ON,Canada,M4H1B6",43.7073433,-79.3483158,1,M4H 1B6,OK,premise
+125,ROOFTOP,"42 Overlea Blvd, Toronto, ON M4H 1B6, Canada",ChIJS3T1l-TM1IkRPCkjURS7KmU,"42 Overlea Blvd,Toronto,ON,Canada,M4H1B6",43.7073433,-79.3483158,1,M4H 1B6,OK,premise
+126,ROOFTOP,"42 Queen St, Stephenville, NL A2N 2M9, Canada",ChIJkZEDUS8je0sRTdhMRLPxh9w,"42 Queen Street,Stephenville,NL,Canada,A2N3A7",48.54933130000001,-58.57371010000001,1,A2N 2M9,OK,premise
+127,ROOFTOP,"420 Main St, Stonewall, MB R0C 2Z0, Canada",ChIJg5rd_-0_6lIRwKxpTcZ-tdM,"420 Main St,Stonewall,MB,Canada,R0C2Z0",50.1325544,-97.32568889999999,1,R0C 2Z0,OK,premise
+128,ROOFTOP,"420 Ninth St W, Cornwall, ON K6J 0B3, Canada",ChIJ13lD1F0XzEwR7PyIQXR1WtU,"420 NINTH ST W,Cornwall,ON,Canada,K6J0B3",45.0236035,-74.74318219999999,1,K6J 0B3,OK,premise
+129,ROOFTOP,"420 Vansickle Rd, St. Catharines, ON L2R 6P9, Canada",ChIJqffVH-tR04kRwZBB24nUvk0,"420 VANSICKLE RD,St. Catharines,ON,Canada,L2S0C7",43.1517263,-79.2677303,1,L2R 6P9,OK,street_address
+130,ROOFTOP,"420 Vansickle Rd, St. Catharines, ON L2R 6P9, Canada",ChIJqffVH-tR04kRwZBB24nUvk0,"420 Vansickle Road,St. Catharines,ON,Canada,L2R6P9",43.1517263,-79.2677303,1,L2R 6P9,OK,street_address
+131,ROOFTOP,"420 Vansickle Rd, St. Catharines, ON L2R 6P9, Canada",ChIJvW6sDZVR04kRseMtHl92H38,"420 Vansickle Road,St. Catharines,ON,Canada,L2S0A4",43.1540566,-79.2693123,1,L2R 6P9,OK,premise
+132,ROOFTOP,"420 Vansickle Rd, St. Catharines, ON L2R 6P9, Canada",ChIJqffVH-tR04kRwZBB24nUvk0,"420 Vansickle Road,St. Catharines,ON,Canada,L2S0C7",43.1517263,-79.2677303,1,L2R 6P9,OK,street_address
+133,ROOFTOP,"4201 Rue Saint-Denis, Montréal, QC H2J 2K9, Canada",ChIJedvbec4byUwRqnoqHQl-q64,"4201 Rue St-Denis,Montreal,QC,Canada,H2J2K8",45.5221521,-73.57832499999999,1,H2J 2K9,OK,street_address
+134,ROOFTOP,"4205 23 Ave NW, Edmonton, AB T6L 5Z8, Canada",ChIJ-YUFpG0ZoFMRkPTwpPDLtds,"4205 23 Avenue Northwest ,Edmonton,AB,Canada,T6L5Z8",53.454638,-113.407606,1,T6L 5Z8,OK,street_address
+135,ROOFTOP,"4205 Rue Jean-Talon O, Montréal, QC H4P 1V5, Canada",ChIJD47pg88ZyUwRaePA_kVWydQ,"4205 Rue Jean-Talon Ouest,Montreal,QC,Canada,H4P2T6",45.5003888,-73.6479269,1,H4P 1V5,OK,premise
+136,ROOFTOP,"421a Cumberland St, Ottawa, ON K1N 5Y1, Canada",ChIJ-eVDjwMFzkwR-a4hzIpvOyk,"421 A Cumberland St,Ottawa,ON,Canada,K1N9M2",45.4279447,-75.6870613,1,K1N 5Y1,OK,street_address
+137,ROOFTOP,"421 Lahave St, Bridgewater, NS B4V 3A2, Canada",ChIJY57tfsFnV0sRb8i4A4rR5VA,"421 Lahave Street,Bridgewater,NS,Canada,B4V3A2",44.377198,-64.5154506,1,B4V 3A2,OK,premise
+138,ROOFTOP,"421 Lahave St, Bridgewater, NS B4V 3A2, Canada",ChIJY57tfsFnV0sRb8i4A4rR5VA,"421 Lahave Street,Bridgewater,NS,Canada,B4V3A2",44.377198,-64.5154506,1,B4V 3A2,OK,premise
+139,ROOFTOP,"421 Lahave St, Bridgewater, NS B4V 3A2, Canada",ChIJY57tfsFnV0sRb8i4A4rR5VA,"421 Lahave Street,Bridgewater,NS,Canada,B4V3A2",44.377198,-64.5154506,1,B4V 3A2,OK,premise
+140,ROOFTOP,"421 Lahave St, Bridgewater, NS B4V 3A2, Canada",ChIJY57tfsFnV0sRb8i4A4rR5VA,"421 Lahave Street,Bridgewater,NS,Canada,B4V3A2",44.377198,-64.5154506,1,B4V 3A2,OK,premise
+141,ROOFTOP,"421 Lahave St, Bridgewater, NS B4V 3A2, Canada",ChIJY57tfsFnV0sRb8i4A4rR5VA,"421 Lahave Street,Bridgewater,NS,Canada,B4V3A2",44.377198,-64.5154506,1,B4V 3A2,OK,premise
+142,ROOFTOP,"4210 70 Ave, Lloydminster, AB T9V 2X3, Canada",ChIJYQVKPW-yCVMRb-HuVnnclHk,"4210 70TH AVE,Lloydminster,AB,Canada,T9V2X3",53.2760022,-110.0490716,1,T9V 2X3,OK,premise
+143,ROOFTOP,"4211 106 St NW, Edmonton, AB T6J 6L7, Canada",ChIJEbRX1zkfoFMR7NqlTTP4cic,"4211 106 Street NW,Edmonton,AB,Canada,T6J6L7",53.4799541,-113.5034614,1,T6J 6L7,OK,street_address
+144,ROOFTOP,"4214 42 Ave, Whitecourt, AB T7S 0A3, Canada",ChIJ_R2XlVnTnlMRRHredFTcxDs,"4214 42nd AVE,Whitecourt,AB,Canada,T7S0A3",54.131819,-115.667272,1,T7S 0A3,OK,street_address
+145,ROOFTOP,"4218 Gateway Blvd NW, Edmonton, AB T6J 5J7, Canada",ChIJ6Y2-azEfoFMR1i01qtq4ZF0,"4218 Gateway Blvd. NW,Edmonton,AB,Canada,T6J5H2",53.4783233,-113.4929771,1,T6J 5J7,OK,street_address
+146,ROOFTOP,"4218 Gateway Blvd NW, Edmonton, AB T6J 5J7, Canada",ChIJ6Y2-azEfoFMR1i01qtq4ZF0,"4218 Gateway Blvd. NW,Edmonton,AB,Canada,T6J5H2",53.4783233,-113.4929771,1,T6J 5J7,OK,street_address
+147,ROOFTOP,"4219 75 Ave, Lloydminster, AB T9V 2X4, Canada",ChIJ6yxLxW6yCVMRqDmmnkr6__U,"4219 75 Ave,Lloydminster,AB,Canada,T9V2X4",53.2760268,-110.05144,1,T9V 2X4,OK,subpremise
+148,ROOFTOP,"4223 52 Ave, Whitecourt, AB T7S 1X6, Canada",ChIJ9YVSWqrUnlMRBlozWvI4S_w,"4223-52 Avenue,Whitecourt,AB,Canada,T7S1X6",54.1420191,-115.6664114,1,T7S 1X6,OK,premise
+149,ROOFTOP,"4225 Boulevard des Forges, Trois-Rivières, QC G8Y, Canada",ChIJXym6l9nIx0wRbbF9YjpUTJE,"4225 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y1W1",46.3562107,-72.5891327,1,G8Y,OK,premise
+150,ROOFTOP,"4225 Boulevard des Forges, Trois-Rivières, QC G8Y, Canada",ChIJXym6l9nIx0wRbbF9YjpUTJE,"4225 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y1W2",46.3562107,-72.5891327,1,G8Y,OK,premise
+151,ROOFTOP,"4225 Boulevard des Forges, Trois-Rivières, QC G8Y, Canada",ChIJXym6l9nIx0wRbbF9YjpUTJE,"4225 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y1W2",46.3562107,-72.5891327,1,G8Y,OK,premise
+152,ROOFTOP,"4225 Boulevard des Forges, Trois-Rivières, QC G8Y, Canada",ChIJXym6l9nIx0wRbbF9YjpUTJE,"4225 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y1W2",46.3562107,-72.5891327,1,G8Y,OK,premise
+153,ROOFTOP,"4225 Boulevard des Forges, Trois-Rivières, QC G8Y, Canada",ChIJXym6l9nIx0wRbbF9YjpUTJE,"4225 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y1W2",46.3562107,-72.5891327,1,G8Y,OK,premise
+154,ROOFTOP,"4225 Boulevard des Forges, Trois-Rivières, QC G8Y, Canada",ChIJXym6l9nIx0wRbbF9YjpUTJE,"4225 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y1W2",46.3562107,-72.5891327,1,G8Y,OK,premise
+155,ROOFTOP,"4236 Rue Wellington, Verdun, QC H4G 1W2, Canada",ChIJ9xQkj2YQyUwRFGhRZBgMjfc,"4236 Rue Wellington ,Verdun,QC,Canada,H2J1X3",45.4614182,-73.5670106,1,H4G 1W2,OK,street_address
+156,ROOFTOP,"424 Catherine St, Ottawa, ON K1R 5T8, Canada",ChIJtZLDNbQFzkwR4dhsRuCvKD8,"424 Catherine St,Ottawa,ON,Canada,K1R5T8",45.4062105,-75.6992558,1,K1R 5T8,OK,premise
+157,ROOFTOP,"425 10th St, Hanover, ON N4N 1P8, Canada",ChIJC9lBVQSbKYgRTfF5imsDlHY,"425 10th St,Hanover,ON,Canada,N4N1P8",44.1525852,-81.02305799999999,1,N4N 1P8,OK,premise
+158,RANGE_INTERPOLATED,"425 15 St E, Prince Albert, SK S6V 1G1, Canada",Ei40MjUgMTUgU3QgRSwgUHJpbmNlIEFsYmVydCwgU0sgUzZWIDFHMSwgQ2FuYWRhIhsSGQoUChIJnSgZsWN6AVMRa2qvU6VgnHcQqQM,"425 15th Street East,Prince Albert,SK,Canada,S6V1G1",53.1990594,-105.7438787,1,S6V 1G1,OK,street_address
+159,ROOFTOP,"425 Algonquin Blvd E, Timmins, ON P4N 1B5, Canada",ChIJuXMJBP-lPE0RIYFktPXOJDs,"425 Algonquin Blvd E,Timmins,ON,Canada,P4N1B5",48.4755785,-81.322965,1,P4N 1B5,OK,premise
+160,ROOFTOP,"425 Boulevard Saint-Joseph, Gatineau, QC J8Y, Canada",ChIJC_k4k58EzkwRaMN6I8ryhnk,"425 Boul Saint-Joseph,Hull,QC,Canada,J8Y3Z9",45.4456609,-75.7340534,1,J8Y,OK,premise
+161,GEOMETRIC_CENTER,"425 Caradoc St S, Strathroy, ON N7G 2P5, Canada",ChIJbdKeAAMEL4gRk610hd-pCPY,"425 Caradoc St. S,Strathroy,ON,Canada,N7G2P5",42.9472905,-81.611899,1,N7G 2P5,OK,premise
+162,,,,"425 Caradoc Street South, Unit #1,Strathroy,ON,Canada,N7G2P5",,,0,,REQUEST_DENIED,
+163,ROOFTOP,"425 University Avenue East, Waterloo, ON N2K 4C9, Canada",ChIJI-95F3PzK4gRAjcn_QHFauA,"425 University Ave East,Waterloo,ON,Canada,N2K4C9",43.489211,-80.493053,2,N2K 4C9,OK,street_address
+164,ROOFTOP,"4250 137 Ave NW, Edmonton, AB T5Y 2W7, Canada",ChIJ8YChWb48oFMRUvE69NRA-zw,"4250 - 137TH AVENUE,Edmonton,AB,Canada,T5Y2W7",53.5989435,-113.4075936,1,T5Y 2W7,OK,premise
+165,ROOFTOP,"4250 137 Ave NW, Edmonton, AB T5Y 2W7, Canada",ChIJ8YChWb48oFMRUvE69NRA-zw,"4250 137 Ave,Edmonton,AB,Canada,T5Y2W7",53.5989435,-113.4075936,1,T5Y 2W7,OK,premise
+166,ROOFTOP,"4250 1re Ave, Québec, QC G1H 2S5, Canada",ChIJ71GqhSqWuEwR50amlRmR1jI,"4250 1re Avenue,Charlesbourg,QC,Canada,G1H2S5",46.8436447,-71.2473091,1,G1H 2S5,OK,street_address
+167,ROOFTOP,"426 10th St, Hanover, ON N4N 1P9, Canada",ChIJjToFWASbKYgRhtecQodHOZ0,"426 10th St,Hanover,ON,Canada,N4N1P9",44.1531005,-81.02305799999999,1,N4N 1P9,OK,premise
+168,ROOFTOP,"4265 Lougheed Hwy, Burnaby, BC V5C 3Y6, Canada",ChIJKTmSYi53hlQRBJVuPq3T9To,"4265 Lougheed Highway,Burnaby,BC,Canada,V5C3Y6",49.2671287,-123.009415,1,V5C 3Y6,OK,premise
+169,ROOFTOP,"4270 Innes Rd, Orléans, ON K4A 5E6, Canada",ChIJcz0IkUASzkwR9qS5hnH9LCw,"4270 Innes Road,Ottawa,ON,Canada,K4A5E6",45.45711619999999,-75.4952191,1,K4A 5E6,OK,street_address
+170,ROOFTOP,"4270 Rue Jean-Talon, Saint-Léonard, QC H1S 1J7, Canada",ChIJO--29bkeyUwRhTU27sw3g_k,"4270 Rue Jean-Talon Est,St-Leonard,QC,Canada,H1S1J7",45.56710710000001,-73.5885244,1,H1S 1J7,OK,street_address
+171,ROOFTOP,"4270 Rue Jean-Talon, Saint-Léonard, QC H1S 1J7, Canada",ChIJO--29bkeyUwRhTU27sw3g_k,"4270 Rue Jean-Talon Est,St-Leonard,QC,Canada,H1S1J7",45.56710710000001,-73.5885244,1,H1S 1J7,OK,street_address
+172,ROOFTOP,"4270 Rue Jean-Talon, Saint-Léonard, QC H1S 1J7, Canada",ChIJO--29bkeyUwRhTU27sw3g_k,"4270 Rue Jean-Talon Est,St-Leonard,QC,Canada,H1S1J7",45.56710710000001,-73.5885244,1,H1S 1J7,OK,street_address
+173,ROOFTOP,"4270 Rue Jean-Talon, Saint-Léonard, QC H1S 1J7, Canada",ChIJO--29bkeyUwRhTU27sw3g_k,"4270 Rue Jean-Talon Est,St-Leonard,QC,Canada,H1S1J7",45.56710710000001,-73.5885244,1,H1S 1J7,OK,street_address
+174,ROOFTOP,"4270 Rue Jean-Talon, Saint-Léonard, QC H1S 1J7, Canada",ChIJO--29bkeyUwRhTU27sw3g_k,"4270 Rue Jean-Talon Est,St-Leonard,QC,Canada,H1S1J7",45.56710710000001,-73.5885244,1,H1S 1J7,OK,street_address
+175,ROOFTOP,"4270 Rue Jean-Talon, Saint-Léonard, QC H1S 1J7, Canada",ChIJO--29bkeyUwRhTU27sw3g_k,"4270 Rue Jean-Talon Est,St-Leonard,QC,Canada,H1S2V4",45.56710710000001,-73.5885244,1,H1S 1J7,OK,street_address
+176,ROOFTOP,"4285 Strandherd Dr #7, Nepean, ON K2J 5P8, Canada",EjE3LCA0Mjg1IFN0cmFuZGhlcmQgRHIsIE5lcGVhbiwgT04gSzJKIDVQOCwgQ2FuYWRhIh0aGwoWChQKEgn9X9xlWvzNTBGW6dB6M1wRuxIBNw,"4285 STRANDHERD DR Unit 7,Nepean,ON,Canada,K2J6E5",45.2696103,-75.78254799999999,1,K2J 5P8,OK,subpremise
+177,ROOFTOP,"429 Coverdale Rd, Riverview, NB E1B 3K3, Canada",ChIJ_bWiK6e5oEwR--BFEhZ2C0w,"429 Coverdale Road,Riverview,NB,Canada,E1B3K3",46.0653041,-64.8017641,1,E1B 3K3,OK,premise
+178,ROOFTOP,"429 Main St, Lewisporte, NL A0G 3A0, Canada",ChIJq0xTleMGd0sRlHV9EU5mWyI,"429 Main Street,Lewisporte,NL,Canada,A0G3A0",49.2188806,-55.0541346,1,A0G 3A0,OK,premise
+179,RANGE_INTERPOLATED,"43 Main St W, Channel-Port aux Basques, NL A0M 1C0, Canada",Ejo0MyBNYWluIFN0IFcsIENoYW5uZWwtUG9ydCBhdXggQmFzcXVlcywgTkwgQTBNIDFDMCwgQ2FuYWRhIhoSGAoUChIJrTHvvhKlZUsRu7V85Acpey8QKw,"43 Main Street,Channel-Port Aux Basques,NL,Canada,A0M1C0",47.5731857,-59.1384497,1,A0M 1C0,OK,street_address
+180,ROOFTOP,"430 Connell St, Woodstock, NB E7M 5R5, Canada",ChIJ_6gG_iOTpEwRra4lAwyOiYg,"430 Connell Street,Woodstock,NB,Canada,E7M5R5",46.1750824,-67.6041304,1,E7M 5R5,OK,premise
+181,ROOFTOP,"430 Main St E, Kingsville, ON N9Y 1A7, Canada",ChIJj5RNNNrCOogRoPLlQ1pSeUA,"430 Main Street East,Kingsville,ON,Canada,N9Y1A7",42.0389658,-82.7214791,1,N9Y 1A7,OK,subpremise
+182,ROOFTOP,"430 Topsail Rd, St. John's, NL A1E 4N1, Canada",ChIJt0hIoDujDEsR7W2LBTKpoi0,"430 Topsail Road,St. John's,NL,Canada,A1E4N1",47.534302,-52.7495519,1,A1E 4N1,OK,street_address
+183,ROOFTOP,"430 Topsail Rd, St. John's, NL A1E 4N1, Canada",ChIJt0hIoDujDEsR7W2LBTKpoi0,"430 Topsail Road,St. John's,NL,Canada,A1E4N1",47.534302,-52.7495519,1,A1E 4N1,OK,street_address
+184,ROOFTOP,"430 Topsail Rd, St. John's, NL A1E 4N1, Canada",ChIJt0hIoDujDEsR7W2LBTKpoi0,"430 Topsail Road,St. John's,NL,Canada,A1E4N1",47.534302,-52.7495519,1,A1E 4N1,OK,street_address
+185,ROOFTOP,"430 Topsail Rd, St. John's, NL A1E 4N1, Canada",ChIJt0hIoDujDEsR7W2LBTKpoi0,"430 Topsail Road,St. John's,NL,Canada,A1E4N1",47.534302,-52.7495519,1,A1E 4N1,OK,street_address
+186,ROOFTOP,"430 Topsail Rd, St. John's, NL A1E 4N1, Canada",ChIJt0hIoDujDEsR7W2LBTKpoi0,"430 Topsail Road,St. John's,NL,Canada,A1E4N1",47.534302,-52.7495519,1,A1E 4N1,OK,street_address
+187,RANGE_INTERPOLATED,"4300 Steeles Ave E, Scarborough, ON L3R, Canada",Eis0MzAwIFN0ZWVsZXMgQXZlIEUsIFNjYXJib3JvdWdoLCBPTiwgQ2FuYWRhIhsSGQoUChIJbSJgoQnU1IkRNOvHAtSgcM0QzCE,"4300 Steeles Ave East,Markham,ON,Canada,L3R0Y5",43.8250037,-79.3058147,1,L3R,OK,street_address
+188,RANGE_INTERPOLATED,"4300 Steeles Ave E, Scarborough, ON L3R, Canada",Eis0MzAwIFN0ZWVsZXMgQXZlIEUsIFNjYXJib3JvdWdoLCBPTiwgQ2FuYWRhIhsSGQoUChIJbSJgoQnU1IkRNOvHAtSgcM0QzCE,"4300 Steeles Ave East,Markham,ON,Canada,L3R0Y5",43.8250037,-79.3058147,1,L3R,OK,street_address
+189,RANGE_INTERPOLATED,"4300 Steeles Ave E, Scarborough, ON L3R, Canada",Eis0MzAwIFN0ZWVsZXMgQXZlIEUsIFNjYXJib3JvdWdoLCBPTiwgQ2FuYWRhIhsSGQoUChIJbSJgoQnU1IkRNOvHAtSgcM0QzCE,"4300 Steeles Avenue East,Markham,ON,Canada,L3R0Y5",43.8250037,-79.3058147,1,L3R,OK,street_address
+190,RANGE_INTERPOLATED,"4300 Steeles Ave E, Scarborough, ON L3R, Canada",Eis0MzAwIFN0ZWVsZXMgQXZlIEUsIFNjYXJib3JvdWdoLCBPTiwgQ2FuYWRhIhsSGQoUChIJbSJgoQnU1IkRNOvHAtSgcM0QzCE,"4300 Steeles Avenue East,Markham,ON,Canada,L3R0Y5",43.8250037,-79.3058147,1,L3R,OK,street_address
+191,RANGE_INTERPOLATED,"4300 Steeles Ave E, Scarborough, ON L3R, Canada",Eis0MzAwIFN0ZWVsZXMgQXZlIEUsIFNjYXJib3JvdWdoLCBPTiwgQ2FuYWRhIhsSGQoUChIJbSJgoQnU1IkRNOvHAtSgcM0QzCE,"4300 Steeles Avenue East,Markham,ON,Canada,L3R0Y5",43.8250037,-79.3058147,1,L3R,OK,street_address
+192,RANGE_INTERPOLATED,"4300 Steeles Ave E, Scarborough, ON L3R, Canada",Eis0MzAwIFN0ZWVsZXMgQXZlIEUsIFNjYXJib3JvdWdoLCBPTiwgQ2FuYWRhIhsSGQoUChIJbSJgoQnU1IkRNOvHAtSgcM0QzCE,"4300 Steeles Avenue East,Markham,ON,Canada,L3R0Y5",43.8250037,-79.3058147,1,L3R,OK,street_address
+193,RANGE_INTERPOLATED,"4300 Steeles Ave E, Scarborough, ON L3R, Canada",Eis0MzAwIFN0ZWVsZXMgQXZlIEUsIFNjYXJib3JvdWdoLCBPTiwgQ2FuYWRhIhsSGQoUChIJbSJgoQnU1IkRNOvHAtSgcM0QzCE,"4300 Steeles Avenue East,Markham,ON,Canada,L3R0Y5",43.8250037,-79.3058147,1,L3R,OK,street_address
+194,ROOFTOP,"4307 130 Ave SE, Calgary, AB T2Z 3V8, Canada",ChIJNcPV8Z13cVMRBe3vnQJAOgU,"4307 130 Ave SE,Calgary,AB,Canada,T2Z3V8",50.9304438,-113.9731039,1,T2Z 3V8,OK,premise
+195,ROOFTOP,"4307 130 Ave SE, Calgary, AB T2Z 3V8, Canada",ChIJNcPV8Z13cVMRBe3vnQJAOgU,"4307 130 Ave. SE,Calgary,AB,Canada,T2Z3V8",50.9304438,-113.9731039,1,T2Z 3V8,OK,premise
+196,ROOFTOP,"4307 130 Ave SE #90, Calgary, AB T2Z 3V8, Canada",ChIJkU_trJ13cVMRqAP4kZg84nM,"4307-130 Avenue SE, unit 90,Calgary,AB,Canada,T2Z3V8",50.92930279999999,-113.9706126,1,T2Z 3V8,OK,subpremise
+197,ROOFTOP,"4309 56 St, Wetaskiwin, AB T9A 1V4, Canada",ChIJx48uwDROdVMRfdi-PhVjQL0,"4309B 56 Street,Wetaskiwin,AB,Canada,T9A1V4",52.9642477,-113.3896319,1,T9A 1V4,OK,premise
+198,RANGE_INTERPOLATED,"431 Main St NW, Slave Lake, AB T0G 2A1, Canada",Ei40MzEgTWFpbiBTdCBOVywgU2xhdmUgTGFrZSwgQUIgVDBHIDJBMSwgQ2FuYWRhIhsSGQoUChIJP_itgJ6SolMRrfzMHWydBtQQrwM,"431 Main St SW,SLAVE LAKE,AB,Canada,T0G2A4",55.28629110000001,-114.7709614,1,T0G 2A1,OK,street_address
+199,ROOFTOP,"4312 Innes Rd, Orléans, ON K4A 5E6, Canada",ChIJJdVx00YSzkwR69a9dzw2gug,"4312 Innes Road,Orleans,ON,Canada,K4A5E6",45.4588713,-75.4932063,1,K4A 5E6,OK,premise
+200,ROOFTOP,"4313 Wellington Rd S, London, ON N6E 2Z8, Canada",ChIJV5G0WIHzLogREMnM9MBE9bo,"4313 Wellington Road South,London,ON,Canada,N6E2Z8",42.9192813,-81.2122026,1,N6E 2Z8,OK,street_address
+201,ROOFTOP,"4313 Wellington Rd S, London, ON N6E 2Z8, Canada",ChIJV5G0WIHzLogREMnM9MBE9bo,"4313 Wellington Road South,London,ON,Canada,N6E2Z8",42.9192813,-81.2122026,1,N6E 2Z8,OK,street_address
+202,ROOFTOP,"Town Plaza Suites Bear Lodge, 4314 Main St, Whistler, BC V0N 1B4, Canada",ChIJnwbSF7M8h1QRbloaCd_lqZo,"4314 Main St.,Whistler,BC,Canada,V0N1B4",50.1167063,-122.9548214,1,V0N 1B4,OK,premise
+203,ROOFTOP,"4315 Strandherd Dr, Nepean, ON K2J 5P8, Canada",ChIJT0eg-lr8zUwROWE5CDl0828,"4315 Strandherd Dr,Barrhaven,ON,Canada,K2J5P8",45.2688881,-75.7842675,1,K2J 5P8,OK,street_address
+204,ROOFTOP,"4315 Strandherd Dr, Nepean, ON K2J 5P8, Canada",ChIJT0eg-lr8zUwROWE5CDl0828,"4315 Strandherd Dr,Nepean,ON,Canada,K2J5P8",45.2688881,-75.7842675,1,K2J 5P8,OK,street_address
+205,ROOFTOP,"4331 52 Ave, Whitecourt, AB T7S 1X6, Canada",ChIJBy5ogarUnlMRZWhLVicrgxM,"4331 - 52 AVE,Whitecourt,AB,Canada,T7S1X6",54.1420575,-115.6696428,1,T7S 1X6,OK,premise
+206,ROOFTOP,"4333 50 Ave, St. Paul, AB T0A 3A3, Canada",ChIJYTGGHyA5p1MRCjh1-Qb3T-Q,"4333 50 Ave,St. Paul,AB,Canada,T0A3A3",53.9908853,-111.2784872,1,T0A 3A3,OK,street_address
+207,ROOFTOP,"4338 Main St, Whistler, BC V0N 1B5, Canada",ChIJLbDqrLM8h1QRac2B10WjE0Y,"4338 Main St. ,Whistler,BC,Canada,V0N1B4",50.1186918,-122.9560797,1,V0N 1B5,OK,premise
+208,ROOFTOP,"435 Durham St E, Walkerton, ON N0G 2V0, Canada",ChIJoRutv7SYKYgRRHNjlQQAQi8,"435 DURHAM ST E,Walkerton,ON,Canada,N0G2V0",44.1325496,-81.1460204,1,N0G 2V0,OK,premise
+209,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Rd West,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+210,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Rd West,Kitchener,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+211,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Rd West,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+212,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Rd West,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+213,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Rd. W,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+214,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Rd. W,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+215,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Rd. W,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+216,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Road West,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+217,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Road West,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+218,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Road West,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+219,RANGE_INTERPOLATED,"435 Stone Rd W, Guelph, ON N1G, Canada",EiI0MzUgU3RvbmUgUmQgVywgR3VlbHBoLCBPTiwgQ2FuYWRhIhsSGQoUChIJp-fzlCWFK4gREzWseDGtpU0QswM,"435 Stone Road West,Guelph,ON,Canada,N1G2X6",43.51602829999999,-80.2390073,1,N1G,OK,street_address
+220,ROOFTOP,"436 Rue Jean-Talon Ouest, Montreal, QC H3N 1R2, Canada",ChIJQ_2yEAwZyUwRkj44DwG-x9o,"436 Rue Jean-Talon Ouest,Montreal,QC,Canada,H3N1R2",45.5292324,-73.62255429999999,1,H3N 1R2,OK,street_address
+221,ROOFTOP,"437 Parliament St, Toronto, ON M5A 3A1, Canada",ChIJLZTpxkXL1IkR_Qf5mLjfTJU,"437 Parliament Street,Toronto,ON,Canada,M5A3A1",43.6630063,-79.36722960000002,1,M5A 3A1,OK,premise
+222,ROOFTOP,"437 Rue du Pont, Mont-Laurier, QC J9L 2R8, Canada",ChIJO9s9ysWn2kwRm2Gnt4y6Ab0,"437 Rue du Pont ,Mont-Laurier,QC,Canada,J9L2R8",46.5511807,-75.4999891,1,J9L 2R8,OK,premise
+223,ROOFTOP,"4371 Walker Rd, Windsor, ON N8W 3T6, Canada",ChIJDUCR2mEpO4gRbJRubUyGBO4,"4371 Walker Rd,Windsor,ON,Canada,N8W3T6",42.2566152,-82.9681339,1,N8W 3T6,OK,premise
+224,ROOFTOP,"4375 Boulevard des Forges, Trois-Rivières, QC G8Y 5N9, Canada",ChIJcf_eFdnIx0wRzHzTdcBvZRg,"4375 Boulevard Des Forges,Trois Rivieres,QC,Canada,G8Y5N9",46.3582224,-72.58872749999999,1,G8Y 5N9,OK,street_address
+225,ROOFTOP,"4379 Walker Rd, Windsor, ON N8W 3T6, Canada",ChIJV3UQ-2EpO4gRJefwyCFLwdQ,"4379 WALKER ROAD,Windsor,ON,Canada,N8W3T6",42.2565326,-82.9667899,1,N8W 3T6,OK,premise
+226,ROOFTOP,"4379 Walker Rd, Windsor, ON N8W 3T6, Canada",ChIJV3UQ-2EpO4gRJefwyCFLwdQ,"4379 WALKER ROAD,Windsor,ON,Canada,N8W3T6",42.2565326,-82.9667899,1,N8W 3T6,OK,premise
+227,ROOFTOP,"4380 No 3 Rd #1450, Richmond, BC V6X 2C2, Canada",EjAxNDUwLCA0MzgwIE5vIDMgUmQsIFJpY2htb25kLCBCQyBWNlggMkMyLCBDYW5hZGEiIBoeChYKFAoSCQe4IkovdYZUEY1_7RxBoRz4EgQxNDUw,"4380 No. 3 RD UNIT 1450,RICHMOND,BC,Canada,V6X3V7",49.1813728,-123.135898,1,V6X 2C2,OK,subpremise
+228,ROOFTOP,"439 Government St, Dryden, ON P8N 2P4, Canada",ChIJyzq0_S6yolIROXyGefIABlQ,"439 Government St,Dryden,ON,Canada,P8N2Z4",49.78692359999999,-92.8278826,1,P8N 2P4,OK,premise
+229,ROOFTOP,"4396 King St E, Kitchener, ON N2P 2G4, Canada",ChIJs54WHEKKK4gRnxk1sZqdWYs,"4396 King Street East,Kitchener,ON,Canada,N2G3W6",43.4067327,-80.3937864,1,N2P 2G4,OK,premise
+230,ROOFTOP,"4399 Rue Saint-Denis, Montréal, QC H2J 2L2, Canada",ChIJsaKx6dEbyUwR202VLXX5jAA,"4399 Rue St-Denis,Montreal,QC,Canada,H2L2L2",45.523494,-73.5812826,1,H2J 2L2,OK,street_address
+231,ROOFTOP,"44 1 Ave NW, Swift Current, SK S9H 0M6, Canada",ChIJyzoaUbffEFMRqrsPZyXBcvA,"44 1st Ave NW,Swift Current,SK,Canada,S9H0M6",50.2823971,-107.8021795,1,S9H 0M6,OK,premise
+232,ROOFTOP,"44 Argyle St N, Caledonia, ON N3W 1B8, Canada",ChIJ__-vag-NLIgRegNTNnrV5Ys,"44 Argyle St North,Caledonia,ON,Canada,N3W1B8",43.0741164,-79.9514901,1,N3W 1B8,OK,street_address
+233,ROOFTOP,"44 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",ChIJ3TFqGjS9KogRbtPedvwySSo,"44 Cedar Pointe Drive,Barrie,ON,Canada,L4N5R7",44.3821338,-79.7127746,1,L4N 5R7,OK,premise
+234,ROOFTOP,"44 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",ChIJ3TFqGjS9KogRbtPedvwySSo,"44 Cedar Pointe Drive,Barrie,ON,Canada,L4N5R7",44.3821338,-79.7127746,1,L4N 5R7,OK,premise
+235,ROOFTOP,"44 Clock Tower Rd, North York, ON M3C 0G3, Canada",ChIJYwv_NXLN1IkRW_ThpyH5JgQ,"44 Clock Tower Rd,North York,ON,Canada,M3C0G3",43.73449189999999,-79.3440791,1,M3C 0G3,OK,street_address
+236,ROOFTOP,"44 Dracup Ave, Yorkton, SK S3N 3S6, Canada",ChIJRYmdp8Gt41IRLp6j3TTrtuA,"44 Dracup Ave N,Yorkton,SK,Canada,S3N3W1",51.2118174,-102.4518652,1,S3N 3S6,OK,premise
+237,ROOFTOP,"44 James St, Antigonish, NS B2G 1R7, Canada",ChIJr0q9dANFXEsRwhQYwcnQoG8,"44 James St,Antigonish,NS,Canada,B2G1R7",45.615663,-62.00314499999999,1,B2G 1R7,OK,street_address
+238,ROOFTOP,"44 Main St S, Rocky Harbour, NL A0K 4N0, Canada",ChIJ8SAk-6NQeUsRriz6HponTYo,"44 Main Street,Rocky Harbour,NL,Canada,A0K4N0",49.5870688,-57.92888839999999,2,A0K 4N0,OK,premise
+239,ROOFTOP,"44 Maple Valley Rd, Corner Brook, NL A2H 6L8, Canada",ChIJv5dppRGye0sRnFDcsxqeb8I,"44 Maple Valley Road,Corner Brook,NL,Canada,A2H6L8",48.9474653,-57.91716389999999,1,A2H 6L8,OK,street_address
+240,ROOFTOP,"44 Maple Valley Rd, Corner Brook, NL A2H 6L8, Canada",ChIJv5dppRGye0sRnFDcsxqeb8I,"44 Maple Valley Road,Corner Brook,NL,Canada,A2H6L8",48.9474653,-57.91716389999999,1,A2H 6L8,OK,street_address
+241,ROOFTOP,"44 Maple Valley Rd, Corner Brook, NL A2H 6L8, Canada",ChIJv5dppRGye0sRnFDcsxqeb8I,"44 Maple Valley Road,Corner Brook,NL,Canada,A2H6L8",48.9474653,-57.91716389999999,1,A2H 6L8,OK,street_address
+242,ROOFTOP,"44 Maple Valley Rd, Corner Brook, NL A2H 6L8, Canada",ChIJv5dppRGye0sRnFDcsxqeb8I,"44 Maple Valley Road,Corner Brook,NL,Canada,A2H6L8",48.9474653,-57.91716389999999,1,A2H 6L8,OK,street_address
+243,ROOFTOP,"44 Lower Cove Rd, Sussex, NB E4E 1T6, Canada",ChIJIR96QGMip0wRj63gQfKNogE,"44 Lower Cove Road,Sussex,NB,Canada,E4E1T6",45.7215101,-65.52879159999999,1,E4E 1T6,OK,premise
+244,ROOFTOP,"440 Dundas St, Woodstock, ON N4S 1C1, Canada",ChIJHWypzgwfLIgRorNqmeq2s2Y,"440 Dundas St. Southwest,Woodstock,ON,Canada,N4S1C1",43.129671,-80.758482,1,N4S 1C1,OK,street_address
+245,ROOFTOP,"440 Harrop Dr, Milton, ON L9T 3H2, Canada",ChIJX50LeLJvK4gRpu5nm17lKdk,"440 Harrop Dr,Milton,ON,Canada,L9T3H2",43.5306186,-79.8856703,1,L9T 3H2,OK,premise
+246,ROOFTOP,"440 Rue Bouvier, Québec, QC G2J 1E3, Canada",ChIJQy_ehNCXuEwRgEDawvGzqh8,"440 Rue Bouvier,Quebec,QC,Canada,G2J1E3",46.8395831,-71.2688139,1,G2J 1E3,OK,street_address
+247,ROOFTOP,"440 Rue Bouvier, Québec, QC G2J 1E3, Canada",ChIJQy_ehNCXuEwRgEDawvGzqh8,"440 Rue Bouvier,Quebec ,QC,Canada,G2J1E3",46.8395831,-71.2688139,1,G2J 1E3,OK,street_address
+248,ROOFTOP,"4400 32 St, Vernon, BC V1T 9G8, Canada",ChIJL9O2k5PYfVMRDSuuajRnSg4,"4400 32ND ST.,Vernon,BC,Canada,V1T9H2",50.2774827,-119.2754139,1,V1T 9G8,OK,street_address
+249,ROOFTOP,"441 Rue Principale O, Magog, QC J1X 2B2, Canada",ChIJc3wc0fI3tkwRFN5h2Q4VGDI,"441 Principale Ouest,Magog,QC,Canada,J1X2B2",45.2665453,-72.1543435,1,J1X 2B2,OK,street_address
+250,ROOFTOP,"4410 17 St NW, Edmonton, AB T6T 0C1, Canada",ChIJ4RF_a7YZoFMRU0Zl2THEpeM,"4410 17 Street Northwest,Edmonton,AB,Canada,T6T0C1",53.4806593,-113.374279,1,T6T 0C1,OK,premise
+251,ROOFTOP,"4410 50 Ave SE, Calgary, AB T2B 3C1, Canada",ChIJD25ALkV6cVMRDbsHzP0ze3U,"4410 50 Ave SE,Calgary,AB,Canada,T2B3R4",51.0093782,-113.9693938,1,T2B 3C1,OK,street_address
+252,ROOFTOP,"4411 Walker Rd, Windsor, ON N8W 3T6, Canada",ChIJgdIaiWEpO4gR_-1_y61EkM4,"4411 Walker Road,Windsor,ON,Canada,N8W3T6",42.2552853,-82.96645389999999,1,N8W 3T6,OK,premise
+253,ROOFTOP,"4411 Walker Rd, Windsor, ON N8W 3T6, Canada",ChIJgdIaiWEpO4gR_-1_y61EkM4,"4411 Walker Road,Windsor,ON,Canada,N8W3T6",42.2552853,-82.96645389999999,1,N8W 3T6,OK,premise
+254,ROOFTOP,"4412 27 St, Vernon, BC V1T 4Y4, Canada",ChIJSzk3npLYfVMRYX9k0vzi7ZA,"4412 27th St,Vernon,BC,Canada,V1T4Y4",50.27714290000001,-119.2672022,1,V1T 4Y4,OK,premise
+255,ROOFTOP,"442 Holland St W, Bradford, ON L3Z 0G1, Canada",ChIJTdPlBQvFKogRwVn3Ndlgeh4,"442 Holland Street W,Bradford,ON,Canada,L3Z0A2",44.1091945,-79.5851891,1,L3Z 0G1,OK,premise
+256,ROOFTOP,"442 Millen Rd #110, Stoney Creek, ON L8E 6H2, Canada",EjQxMTAsIDQ0MiBNaWxsZW4gUmQsIFN0b25leSBDcmVlaywgT04gTDhFIDZIMiwgQ2FuYWRhIh8aHQoWChQKEgnxAp9rPqIsiBG5Fpnrot68HBIDMTEw,"442 Millen Rd Unit 110,Stoney Creek,ON,Canada,L8E6H2",43.235292,-79.7146254,1,L8E 6H2,OK,subpremise
+257,ROOFTOP,"4420 Railway Ave, Vermilion, AB T9X 1G1, Canada",ChIJrY6lqZjtCVMRgDGFDPxQio4,"4420 Railway Ave,Vermilion,AB,Canada,T9X1A4",53.3509038,-110.8358188,1,T9X 1G1,OK,premise
+258,ROOFTOP,"4425 Rochdale Blvd, Regina, SK S4X 4R3, Canada",ChIJRwbfF8geHFMRoZIOrT0md0M,"4425 Rochdale Blvd.,Regina,SK,Canada,S4X4R3",50.49599629999999,-104.6447975,1,S4X 4R3,OK,subpremise
+259,ROOFTOP,"4427 BC-16, Terrace, BC V8G 1G1, Canada",ChIJCZJQIvSZdFQR57HGURpkKi0,"4427 HWY 16 W,Terrace,BC,Canada,V8G5L5",54.5104975,-128.580228,1,V8G 1G1,OK,premise
+260,RANGE_INTERPOLATED,"443 Taylor Rd, Niagara-on-the-Lake, ON L0S 1J0, Canada",EjY0NDMgVGF5bG9yIFJkLCBOaWFnYXJhLW9uLXRoZS1MYWtlLCBPTiBMMFMgMUowLCBDYW5hZGEiGxIZChQKEgmbIMTs9lrTiRFaXekAvBZF1BC7Aw,"443 – 300 Taylor Road,Niagara on the Lake,ON,Canada,L0S1J0",43.1584788,-79.169806,1,L0S 1J0,OK,street_address
+261,ROOFTOP,"443 The Queensway S, Keswick, ON L4P 3J4, Canada",ChIJ0dqXyPi1KogRnBQaT2dq1jw,"443 The Queensway South,Keswick,ON,Canada,L4P3J4",44.21425989999999,-79.4631867,1,L4P 3J4,OK,street_address
+262,ROOFTOP,"Costco, 4438 King St E, Kitchener, ON N2P 2G4, Canada",ChIJ0d-UsEGKK4gRsPCG0qRp1oQ,"4438 King St. East,Kitchener,ON,Canada,N2G3W6",43.4073556,-80.3914382,1,N2P 2G4,OK,premise
+263,ROOFTOP,"Costco, 4438 King St E, Kitchener, ON N2P 2G4, Canada",ChIJ0d-UsEGKK4gRsPCG0qRp1oQ,"4438 King Street East,Kitchener,ON,Canada,N2P2G4",43.4073556,-80.3914382,1,N2P 2G4,OK,premise
+264,ROOFTOP,"4438 Sheppard Ave E, Scarborough, ON M1S 1V2, Canada",ChIJ7V3p0XLR1IkRATRj7CNjiUc,"4438 Sheppard Avenue East,Scarborough,ON,Canada,M1S1V2",43.7881972,-79.2681072,1,M1S 1V2,OK,premise
+265,ROOFTOP,"444 Barrydowne Rd, Sudbury, ON P3A 3T3, Canada",ChIJdfCe7IcAL00RxXgKc5n7MEQ,"444 Barrydowne Road,Sudbury,ON,Canada,P3A3T3",46.50614909999999,-80.9433622,1,P3A 3T3,OK,premise
+266,ROOFTOP,"444 Yonge St, Toronto, ON M5G 2B3, Canada",ChIJi9H4BrU0K4gRnlMz_Asts0A,"444 Yonge Street,Toronto,ON,Canada,M5B2H4",43.66070089999999,-79.3835539,1,M5G 2B3,OK,street_address
+267,ROOFTOP,"444 Yonge St, Toronto, ON M5G 2B3, Canada",ChIJi9H4BrU0K4gRnlMz_Asts0A,"444 Yonge Street,Toronto,ON,Canada,M5B2H4",43.66070089999999,-79.3835539,1,M5G 2B3,OK,street_address
+268,ROOFTOP,"444 Yonge St, Toronto, ON M5G 2B3, Canada",ChIJi9H4BrU0K4gRnlMz_Asts0A,"444 Yonge Street ,Toronto,ON,Canada,M5B2H4",43.66070089999999,-79.3835539,1,M5G 2B3,OK,street_address
+269,ROOFTOP,"4440 Boulevard Robert-Bourassa, Laval, QC H7E 0A4, Canada",ChIJAcMwN00gyUwRUv-WZ8SUI_0,"4440 Boulevard Robert-Bourassa,Laval,QC,Canada,H7E0B8",45.6111005,-73.6875618,1,H7E 0A4,OK,premise
+270,ROOFTOP,"4450 Rochdale Blvd, Regina, SK S4X 4P7, Canada",ChIJyVPhpMkeHFMR5mgDybbqMEM,"4450 Rochdale Blvd,Regina,SK,Canada,S4X4N9",50.4982754,-104.6440896,1,S4X 4P7,OK,premise
+271,ROOFTOP,"4455 Rue Saint-Denis, Montréal, QC H2J 2L2, Canada",ChIJHWxAvNEbyUwRGW835aj2QQE,"4455 Rue St-Denis,Montreal,QC,Canada,H2J2L2",45.523851,-73.5821553,1,H2J 2L2,OK,premise
+272,ROOFTOP,"446 Great Northern Rd, Sault Ste. Marie, ON P6B 4Z9, Canada",ChIJo1X6gZo3Nk0RN_13QOiFMTs,"446 GREAT NORTHERN RD,Sault Ste Marie,ON,Canada,P6B4Z9",46.5414345,-84.3151276,1,P6B 4Z9,OK,premise
+273,RANGE_INTERPOLATED,"448 Rue Blainville E, Sainte-Thérèse, QC J7E 1W3, Canada",Ejo0NDggUnVlIEJsYWludmlsbGUgRSwgU2FpbnRlLVRow6lyw6hzZSwgUUMgSjdFIDFXMywgQ2FuYWRhIhsSGQoUChIJaXr35LgnyUwRpuMVYh0-nDEQwAM,"448 rue Blainville Est,Ste-Therese,QC,Canada,J7E1N9",45.64296969999999,-73.8166193,1,J7E 1W3,OK,street_address
+274,ROOFTOP,"449 University Ave, Charlottetown, PE C1A 8K3, Canada",ChIJ6fKwKs9SXksR8jNKVG6aGTs,"449 University Avenue,Charlottetown,PE,Canada,C1A8K3",46.2491227,-63.13838969999999,1,C1A 8K3,OK,street_address
+275,ROOFTOP,"44a Rexdale Blvd, Etobicoke, ON M9W 5Z3, Canada",ChIJ8xajlJ8wK4gR49j_cl_lKDI,"44A Rexdale Blvd,Etobicoke,ON,Canada,M9W5Z3",43.713919,-79.558866,1,M9W 5Z3,OK,street_address
+276,ROOFTOP,"45 Cartier Blvd, Richibucto, NB E4W 3W6, Canada",ChIJZ9Su7BOtoUwRls7e9Z8gvkY,"45 Cartier Boulevard,Richibucto,NB,Canada,E4W3W6",46.6737916,-64.8741275,1,E4W 3W6,OK,premise
+277,ROOFTOP,"45 Clock Tower Rd, North York, ON M3C 0G4, Canada",ChIJyxaGS3LN1IkRUUQ7fwge6uA,"45 Clock Tower Rd,Toronto,ON,Canada,M3C0G4",43.7341942,-79.3439557,1,M3C 0G4,OK,street_address
+278,ROOFTOP,"45 Boul du Plateau, Gatineau, QC J9A 3G1, Canada",ChIJj4fSBgsDzkwROS5M5DQlpOU,"45 du Plateau,Gatineau,QC,Canada,J9A3G1",45.4344671,-75.769808,1,J9A 3G1,OK,subpremise
+279,ROOFTOP,"45 Keltic Dr, Sydney, NS B1S 1P4, Canada",ChIJn0nl1aX7Z0sRLd8upKraw1U,"45 Keltic Dr,Sydney,NS,Canada,B1S1E2",46.108526,-60.225815,1,B1S 1P4,OK,street_address
+280,ROOFTOP,"45 Overlea Blvd, Toronto, ON M4H 1C3, Canada",ChIJnwjAL_vM1IkR_luyK8bMTKk,"45 Overlea Blvd.,Toronto,ON,Canada,M4C1C3",43.7057953,-79.3460276,1,M4H 1C3,OK,premise
+281,ROOFTOP,"45 Overlea Blvd, Toronto, ON M4H 1C3, Canada",ChIJnwjAL_vM1IkR_luyK8bMTKk,"45 Overlea Blvd.,Toronto,ON,Canada,M4H1C3",43.7057953,-79.3460276,1,M4H 1C3,OK,premise
+282,ROOFTOP,"45 Overlea Blvd, Toronto, ON M4H 1C3, Canada",ChIJnwjAL_vM1IkR_luyK8bMTKk,"45 Overlea Blvd.,Toronto,ON,Canada,M4H1C2",43.7057953,-79.3460276,1,M4H 1C3,OK,premise
+283,ROOFTOP,"45 Overlea Blvd, Toronto, ON M4H 1C3, Canada",ChIJnwjAL_vM1IkR_luyK8bMTKk,"45 Overlea Blvd.,Toronto,ON,Canada,M4H1C3",43.7057953,-79.3460276,1,M4H 1C3,OK,premise
+284,ROOFTOP,"45 Red Maple Rd, Richmond Hill, ON L4B 4M6, Canada",ChIJ7-j45nkrK4gReBCAaj6Vir0,"45 Red Maple Road,Richmond Hill,ON,Canada,L4B4M6",43.8418678,-79.4209851,1,L4B 4M6,OK,premise
+285,ROOFTOP,"450 Bayfield St, Barrie, ON L4M 5A2, Canada",ChIJ7XYAre6iKogRhIiZmnbfyqw,"450 BAYFIELD ST,Barrie,ON,Canada,L4M5A2",44.4109009,-79.7111931,1,L4M 5A2,OK,street_address
+286,ROOFTOP,"450 Boulevard Poliquin, Sorel-Tracy, QC J3P 6X4, Canada",ChIJW4-zeF2PyEwRP5GUPOFjt-o,"450 boul. Poliquin,Sorel,QC,Canada,J3P7R5",46.0232721,-73.10369659999999,1,J3P 6X4,OK,premise
+287,ROOFTOP,"450 Boulevard Poliquin, Sorel-Tracy, QC J3P 6X4, Canada",ChIJW4-zeF2PyEwRP5GUPOFjt-o,"450 Boulevard Poliquin,Sorel,QC,Canada,J3P7R5",46.0232721,-73.10369659999999,1,J3P 6X4,OK,premise
+288,ROOFTOP,"450 Boulevard Poliquin, Sorel-Tracy, QC J3P 6X4, Canada",ChIJW4-zeF2PyEwRP5GUPOFjt-o,"450 Boulevard Poliquin,Sorel,QC,Canada,J3P7R5",46.0232721,-73.10369659999999,1,J3P 6X4,OK,premise
+289,ROOFTOP,"450 Boulevard Poliquin, Sorel-Tracy, QC J3P 6X4, Canada",ChIJW4-zeF2PyEwRP5GUPOFjt-o,"450 Boulevard Poliquin,Sorel,QC,Canada,J3P7R5",46.0232721,-73.10369659999999,1,J3P 6X4,OK,premise
+290,ROOFTOP,"450 Boulevard Poliquin, Sorel-Tracy, QC J3P 7R5, Canada",ChIJP0iTnl2PyEwRBH28Qdjj2tE,"450 Boulevard Poliquin, Unité 5004,Sorel,QC,Canada,J3P7R5",46.0237113,-73.10334379999999,2,J3P 7R5,OK,"establishment,point_of_interest,shopping_mall"
+291,GEOMETRIC_CENTER,"450 Garrison Rd, Fort Erie, ON L2A 1N2, Canada",ChIJpXmIon8U04kRHS9FYSlPjqM,"450 Garrison Road,Fort Erie,ON,Canada,L2A5M9",42.9062016,-78.9305921,1,L2A 1N2,OK,premise
+292,ROOFTOP,"450 Kanata Ave, Kanata, ON K2T 1H9, Canada",ChIJRTsOwXUA0kwRG34xdGMcD7k,"450 Kanata Avenue,Kanata,ON,Canada,K2T1K5",45.3111762,-75.90767799999999,1,K2T 1H9,OK,premise
+293,ROOFTOP,"450 Lansdowne St, Kamloops, BC V2C 1Y4, Canada",ChIJV0_gYaktflMRcIJG777KJF4,"450 Lansdowne St,Kamloops,BC,Canada,V2C1Y3",50.6770208,-120.3291165,1,V2C 1Y4,OK,street_address
+294,ROOFTOP,"450 Lansdowne St, Kamloops, BC V2C 1Y4, Canada",ChIJV0_gYaktflMRcIJG777KJF4,"450 Lansdowne St,Kamloops,BC,Canada,V2C1Y3",50.6770208,-120.3291165,1,V2C 1Y4,OK,street_address
+295,ROOFTOP,"450 Lansdowne St, Kamloops, BC V2C 1Y4, Canada",ChIJV0_gYaktflMRcIJG777KJF4,"450 LANSDOWNE ST.,Kamloops,BC,Canada,V2C1Y3",50.6770208,-120.3291165,1,V2C 1Y4,OK,street_address
+296,ROOFTOP,"450 McNeely Ave, Carleton Place, ON K7C 0A6, Canada",ChIJP3wGRp4O0kwRAjCmH7J9V-I,"450 McNeely Ave,Carleton Place,ON,Canada,K7C0A6",45.13361829999999,-76.1254369,1,K7C 0A6,OK,premise
+297,RANGE_INTERPOLATED,"450 Stevenson Rd S, Oshawa, ON L1J 6X3, Canada",Ei40NTAgU3RldmVuc29uIFJkIFMsIE9zaGF3YSwgT04gTDFKIDZYMywgQ2FuYWRhIhsSGQoUChIJkUofMgkd1YkRrj22JGY50e8QwgM,"450 Stevenson Rd S,Oshawa,ON,Canada,L1J0B5",43.8816472,-78.8782061,1,L1J 6X3,OK,street_address
+298,ROOFTOP,"450 Terminal Ave, Ottawa, ON K1G 0Z3, Canada",ChIJCdxTmYAFzkwRdjxmbrQJKaY,"450 TERMINAL AVE,Ottawa,ON,Canada,K1G0Z3",45.4131465,-75.6496399,1,K1G 0Z3,OK,premise
+299,ROOFTOP,"450 Westmorland Rd, Saint John, NB E2J 4Z2, Canada",ChIJvbuChviyp0wRLtl2NIUx7kA,"450 Westmorland Road,Saint John,NB,Canada,E2J4Z2",45.3080827,-66.0192103,1,E2J 4Z2,OK,premise
+300,ROOFTOP,"4500 Gordon Rd, Regina, SK S4S 6H7, Canada",ChIJaTGxE0WnHlMRbRvP3Hevw94,"4500 GORDON RD,Regina,SK,Canada,S4W0B7",50.4082052,-104.6460205,1,S4S 6H7,OK,premise
+301,,,,"4500 Kingsway, #1211,Burnaby,BC,Canada,V5H2A9",,,0,,REQUEST_DENIED,
+302,,,,"4500 Kingsway, #1308,Burnaby,BC,Canada,V5H2A9",,,0,,REQUEST_DENIED,
+303,,,,"4500 Kingsway, #1311,Burnaby,BC,Canada,V5H2A9",,,0,,REQUEST_DENIED,
+304,,,,"4500 Kingsway, #1329,Burnaby,BC,Canada,V5H2H9",,,0,,REQUEST_DENIED,
+305,ROOFTOP,"4500 Still Creek Dr, Burnaby, BC V5C 0B5, Canada",ChIJcZWi9CR3hlQRfDM7kIyXLnE,"4500 Still Creek Drive,Burnaby,BC,Canada,V5C0E5",49.2603928,-122.9991586,1,V5C 0B5,OK,premise
+306,ROOFTOP,"4500 Still Creek Dr, Burnaby, BC V5C 0B5, Canada",ChIJcZWi9CR3hlQRfDM7kIyXLnE,"4500 Still Creek Drive,Burnaby,BC,Canada,V5C0E5",49.2603928,-122.9991586,1,V5C 0B5,OK,premise
+307,ROOFTOP,"4501 North Rd, Burnaby, BC V3N 4R7, Canada",ChIJu83YRj14hlQRG3XSBIhxBw8,"4501 North Rd,Burnaby,BC,Canada,V9L6K9",49.2439366,-122.8942124,1,V3N 4R7,OK,"establishment,food,point_of_interest,restaurant"
+308,ROOFTOP,"4501 North Rd, Burnaby, BC V3N 4J5, Canada",ChIJP_JaNT14hlQRaNcRTN8DOL0,"4501 North Road,Burnaby ,BC,Canada,V3N4R7",49.2439366,-122.8942124,1,V3N 4J5,OK,premise
+309,ROOFTOP,"4505 Boul Bourque, Sherbrooke, QC J1N 2G6, Canada",ChIJq-rrPzdLtkwREHfDEoNBElY,"4505 Boulevard Bourque,Sherbrooke,QC,Canada,J1N3B9",45.3770851,-71.9789365,1,J1N 2G6,OK,street_address
+310,ROOFTOP,"451 Thatcher Dr, Moose Jaw, SK S6J 1L8, Canada",ChIJEZfyiLXdG1MReMq6UgkVEtE,"451 Thatcher Drive East,Moose Jaw,SK,Canada,S6J1L8",50.4102905,-105.5240811,1,S6J 1L8,OK,street_address
+311,ROOFTOP,"4511 Walker Rd, Windsor, ON N9A 6J3, Canada",ChIJJ1ILr2MpO4gRFfgvyFf0zPE,"4511 Walker Rd.,Windsor,ON,Canada,N9A6J3",42.2538323,-82.9640178,1,N9A 6J3,OK,premise
+312,,,,"4515 DUNDAS ST (W) RR # 1,Burlington,ON,Canada,L7M5B4",,,0,,REQUEST_DENIED,
+313,GEOMETRIC_CENTER,"4520 Boulevard des Récollets, Trois-Rivières, QC G9A 4N2, Canada",ChIJM_qBElzPx0wR03vnY-xGS4A,"4520 boul. des Recollets,Trois Rivieres,QC,Canada,G9A4N2",46.3257162,-72.56598220000001,1,G9A 4N2,OK,premise
+314,GEOMETRIC_CENTER,"4520 Boulevard des Récollets, Trois-Rivières, QC G9A 4N2, Canada",ChIJM_qBElzPx0wR03vnY-xGS4A,"4520 Boulevard des Recollets,Trois Rivieres,QC,Canada,G9A4N2",46.3257162,-72.56598220000001,1,G9A 4N2,OK,premise
+315,ROOFTOP,"4520 Ebenezer Rd, Brampton, ON L6P 2K9, Canada",ChIJyw63trE8K4gRxN-jpiRGM4g,"4520 Ebenezer Rd,Brampton,ON,Canada,L6P2R2",43.7726388,-79.66314779999999,1,L6P 2K9,OK,premise
+316,ROOFTOP,"4525 Kingston Rd, Scarborough, ON M1E 2P1, Canada",ChIJU2uJlona1IkR7RdJ1B9lrvU,"4525 Kingston Rd,Scarborough,ON,Canada,M1E2P1",43.7707478,-79.1840402,1,M1E 2P1,OK,street_address
+317,ROOFTOP,"4534 50 Ave, St. Paul, AB T0A 3A2, Canada",ChIJXwIN-h45p1MRo8ejsZA9EaY,"4534 50 Ave,St. Paul,AB,Canada,T0A3A2",53.99165300000001,-111.284922,1,T0A 3A2,OK,street_address
+318,ROOFTOP,"454 County Rd 17, Hawkesbury, ON K6A 2R2, Canada",ChIJaQBFU9zozkwRFVZ3ORS904M,"454 County Road 17,Hawkesbury,ON,Canada,K6A2R2",45.5914001,-74.5947478,1,K6A 2R2,OK,premise
+319,ROOFTOP,"4555 Gordon Rd, Richardson, SK S0G 4G0, Canada",ChIJKZVdkkanHlMRIKnVVk9vsBk,"4555 Gordon Road,Regina,SK,Canada,S4W0B7",50.4035977,-104.6462613,1,S0G 4G0,OK,premise
+320,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 Lackakuck Way,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+321,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 LUCKAKUCK,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+322,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 Luckakuck Way,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+323,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 Luckakuck Way,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+324,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 Luckakuck Way,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+325,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 Luckakuck Way,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+326,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 Luckakuck Way,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+327,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 Luckakuck Way,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+328,ROOFTOP,"45585 Luckakuck Way, Chilliwack, BC V2R 1A1, Canada",ChIJ74ele6RAhFQRF83-_KysxJA,"45585 Luckakuck Way,Chilliwack,BC,Canada,V2R1A1",49.1425959,-121.9635576,1,V2R 1A1,OK,premise
+329,,,,"4567 Lougheed Hwy, #224,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+330,,,,"4567 Lougheed Hwy, #23A,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+331,,,,"4567 Lougheed Hwy, #29,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+332,,,,"4567 Lougheed Hwy, #31,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+333,,,,"4567 Lougheed Hwy, #400,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+334,,,,"4567 Lougheed Hwy, #42,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+335,,,,"4567 Lougheed Hwy, #46A,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+336,,,,"4567 Lougheed Hwy, #63,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+337,,,,"4567 Lougheed Hwy, #736K,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+338,,,,"4567 Lougheed Hwy, #K737,Burnaby,BC,Canada,V5C3Z6",,,0,,REQUEST_DENIED,
+339,ROOFTOP,"457 Hazeldean Rd, Kanata, ON K2L 3P3, Canada",ChIJNW2olJj_zUwRgxfO7L5Wb5A,"457 Hazeldean Rd,Ottawa,ON,Canada,K2L1V1",45.30001430000001,-75.88705519999999,1,K2L 3P3,OK,street_address
+340,GEOMETRIC_CENTER,"45779 Luckakuck Way, Chilliwack, BC V2R 4E8, Canada",ChIJa5c8BKNAhFQR-hTgyf1HGOA,"45779 Luckakuck Way,Chilliwack,BC,Canada,V2R4E8",49.1431774,-121.9593959,1,V2R 4E8,OK,premise
+341,ROOFTOP,"458 Boulevard St Germain, Rimouski, QC G5L 3P1, Canada",ChIJVbkd5XjZlUwRJKoJV-MtMEI,"458 Boul St-Germain Ouest,Rimouski,QC,Canada,G5L3P1",48.4396457,-68.55349319999999,1,G5L 3P1,OK,premise
+342,ROOFTOP,"46 Boulevard de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 8B9, Canada",ChIJU4YklzU2yUwRU2VLtUdKBT0,"46 Boulevard de la Cité-des-Jeunes,Vaudreuil-Dorion,QC,Canada,J7V9L5",45.4087925,-74.0374873,1,J7V 8B9,OK,premise
+343,ROOFTOP,"46 Crowfoot Cir NW, Calgary, AB T3G 2T3, Canada",ChIJTb4vGyJpcVMRouvRq_D_TKw,"46 Crowfoot Circle NW,Calgary,AB,Canada,T3G2T3",51.123227,-114.2050446,1,T3G 2T3,OK,premise
+344,ROOFTOP,"46 Robert Angus Dr, Amherst, NS B4H 4R7, Canada",ChIJhwOmD0JJX0sRiJbvfyAMr4c,"46 Robert Angus Drive,Amherst,NS,Canada,B4H4R7",45.81653559999999,-64.1988976,1,B4H 4R7,OK,premise
+345,ROOFTOP,"460 County Rd 17, Hawkesbury, ON K6A 2R2, Canada",ChIJVeqjgNzozkwRGIysQ-BJwFo,"460 County Rd 17,Hawkesbury,ON,Canada,K6A2R2",45.5922165,-74.5973861,1,K6A 2R2,OK,premise
+346,ROOFTOP,"460 County Rd 17, Hawkesbury, ON K6A 2R2, Canada",ChIJVeqjgNzozkwRGIysQ-BJwFo,"460 County Rd 17 ,Hawkesbury,ON,Canada,K6A2R2",45.5922165,-74.5973861,1,K6A 2R2,OK,premise
+347,ROOFTOP,"460 Rue Sainte-Catherine O, Montréal, QC H3B 1A6, Canada",ChIJK-VVnEUayUwRyLohuihTi6Q,"460 Rue Ste Catherine Ouest,Montreal,QC,Canada,H3B1A7",45.5049785,-73.5676861,1,H3B 1A6,OK,street_address
+348,ROOFTOP,"4600 130 Ave SE, Calgary, AB T2Z 0C2, Canada",ChIJhxgp6Xd3cVMRsbkJHDS6ZI4,"4600 130 Ave. SE,Calgary,AB,Canada,T2Z0C2",50.93255250000001,-113.9697057,1,T2Z 0C2,OK,street_address
+349,RANGE_INTERPOLATED,"460 Main St SE, Slave Lake, AB T0G, Canada",EiY0NjAgTWFpbiBTdCBTRSwgU2xhdmUgTGFrZSwgQUIsIENhbmFkYSIbEhkKFAoSCQGhNgJjjaJTEXXE0yg8FrmTEMwD,"460-1500 Main street SW,SLAVE LAKE,AB,Canada,T0G2A4",55.2797918,-114.7723624,1,T0G,OK,street_address
+350,ROOFTOP,"4604 Gordon Rd, Regina, SK S4W 0B7, Canada",ChIJFQ9oS0SnHlMRcbDRTQt66h8,"4604 Gordon Road,Regina,SK,Canada,S4W0B7",50.4062975,-104.6466672,1,S4W 0B7,OK,subpremise
+351,ROOFTOP,"4605 Boulevard de l'Auvergne #102, Québec, QC G2C 1X5, Canada",Ej4xMDIsIDQ2MDUgQm91bGV2YXJkIGRlIGwnQXV2ZXJnbmUsIFF1w6liZWMsIFFDIEcyQyAxWDUsIENhbmFkYSIfGh0KFgoUChIJ6fv9VUqYuEwRx0WjhBydeIMSAzEwMg,"4605 Boul De L'Auvergne, Unit 102,Quebec,QC,Canada,G2C1H7",46.8237914,-71.3576114,1,G2C 1X5,OK,subpremise
+352,ROOFTOP,"4605 Garrard Rd, Whitby, ON L1R 0J1, Canada",ChIJwRlS-AYc1YkR4N2u85YkXgE,"4605 Garrard Road,Whitby,ON,Canada,L1R0J1",43.9257448,-78.917519,1,L1R 0J1,OK,street_address
+353,ROOFTOP,"4609 Gordon Rd, Richardson, SK S0G 4G0, Canada",ChIJNclyp08eHFMR_GEjasL95pE,"4609 Gordon Rd,Regina,SK,Canada,S4W0B7",50.405047,-104.6466694,1,S0G 4G0,OK,street_address
+354,ROOFTOP,"461 Highway 10, Cookville, NS B4V 7P4, Canada",ChIJlxcXUoxnV0sRR_GD_cU7bSw,"461 Highway 10,Bridgewater,NS,Canada,B4V7P4",44.3984422,-64.5358232,1,B4V 7P4,OK,"electronics_store,establishment,furniture_store,home_goods_store,point_of_interest,store"
+355,ROOFTOP,"461 Main St, Esterhazy, SK S0A 0X0, Canada",ChIJvzR0hbd84VIRQIhoFiQaE4M,"461 Main Street,Esterhazy,SK,Canada,S0C1P0",50.6546887,-102.0781155,1,S0A 0X0,OK,subpremise
+356,ROOFTOP,"4610 56 St, Wetaskiwin, AB T9A 3M5, Canada",ChIJ4yHabTNOdVMREKXQWrxhsNA,"4610 56 Street,Wetaskiwin,AB,Canada,T9A3M5",52.9666552,-113.3909626,1,T9A 3M5,OK,street_address
+357,ROOFTOP,"462 Birchmount Rd, Scarborough, ON M1K 1N8, Canada",ChIJgyKMfGDO1IkRCwr6eK22qiU,"462 Birchmount Rd,Scarborough,ON,Canada,M1K1N8",43.7072508,-79.2695536,1,M1K 1N8,OK,street_address
+358,ROOFTOP,"462 Chemin Madawaska, Grand-Sault, NB E3Y 1A3, Canada",ChIJ6cOlc-nQvEwRi2dkAE0msS8,"462 Madawaska Rd,Grand Falls,NB,Canada,E3Y1A3",47.0586706,-67.7521896,1,E3Y 1A3,OK,premise
+359,ROOFTOP,"4622a 4 Ave, Edson, AB T7E 1C7, Canada",ChIJgeg1jHEinFMR9F7kTrzu8tc,"4622A 4 Ave,Edson ,AB,Canada,T7E1C7",53.5858466,-116.4242199,1,T7E 1C7,OK,street_address
+360,ROOFTOP,"4625 Rue Jean-Talon, Saint-Léonard, QC H1S 1K3, Canada",ChIJwbuK2L4eyUwRsG_hilzN3oU,"4625 Rue Jean-Talon Est,St-Leonard,QC,Canada,H1S1K3",45.5724463,-73.58827819999999,1,H1S 1K3,OK,subpremise
+361,ROOFTOP,"464 Rue Victoria, Edmundston, NB E3V 2K5, Canada",ChIJMd1j-pupvUwRRoQgI3mS2Io,"464 Victoria Rue,Edmundston,NB,Canada,E3V2K5",47.37749489999999,-68.3328898,1,E3V 2K5,OK,premise
+362,ROOFTOP,"4645 Greig Ave, Terrace, BC V8G 5P9, Canada",ChIJOfouie2ZdFQRwiLwjP_J3pQ,"4645 Greig Ave.,Terrace,BC,Canada,V8G5P9",54.5150532,-128.5909134,1,V8G 5P9,OK,premise
+363,ROOFTOP,"465 Broadway St E, Yorkton, SK S3N 4B2, Canada",ChIJtXJ1VbGt41IRlosMSNLxJZc,"465 Broadway Street E/Hwy 10 East,Yorkton,SK,Canada,S3N4B2",51.2112104,-102.4346062,1,S3N 4B2,OK,"car_repair,establishment,point_of_interest,store"
+364,ROOFTOP,"465 Main St, Lewisporte, NL A0G 3A0, Canada",ChIJYRow--YGd0sRJhxKY33l0us,"465 Main Street,Lewisporte,NL,Canada,A0G3A0",49.2148203,-55.0533017,1,A0G 3A0,OK,street_address
+365,ROOFTOP,"465 University Ave, Charlottetown, PE C1A 8R9, Canada",ChIJncv1rs5SXksR8uajbNWx9KE,"465 University Avenue,Charlottetown,PE,Canada,C1A4N9",46.2504486,-63.1397845,1,C1A 8R9,OK,street_address
+366,ROOFTOP,"465 Route du Pont, Saint-Nicolas, QC G7A 2P9, Canada",ChIJcYLJ8JGRuEwRsSHsbcmlnrU,"465, boul. du Pont  ,Saint-Nicolas ,QC,Canada,G7A2P9",46.7163522,-71.2962249,1,G7A 2P9,OK,street_address
+367,ROOFTOP,"4650 Boulevard des Récollets, Trois-Rivières, QC G9A 4N1, Canada",ChIJAQI8rl7Px0wRYFa5c8MVMYY,"4650 Boulevard des Recollets,Trois Rivieres,QC,Canada,G9A0A1",46.3256731,-72.5643466,1,G9A 4N1,OK,street_address
+368,ROOFTOP,"4651 No 3 Rd, Richmond, BC V6X 2C4, Canada",ChIJIeRZly51hlQRkAgMG1a_P9c,"4651 No. 3 Road,RICHMOND,BC,Canada,V6X2C4",49.1793194,-123.138493,1,V6X 2C4,OK,premise
+369,ROOFTOP,"468 Baker St, Nelson, BC V1L 4H8, Canada",ChIJWcX736W2fFMRQHTNsUNdyjE,"468 Baker St.,Nelson,BC,Canada,V1L4H8",49.49173589999999,-117.2942239,1,V1L 4H8,OK,street_address
+370,ROOFTOP,"469 Rue Jean-Talon Ouest, Montreal, QC H3N 1R4, Canada",ChIJh5tgBAwZyUwROy7DHSuz9wA,"469 Rue Jean-Talon O,Montreal,QC,Canada,H3N1R4",45.5289294,-73.6233176,1,H3N 1R4,OK,street_address
+371,ROOFTOP,"47 Crowfoot Way NW, Calgary, AB T3G 2L4, Canada",ChIJo3yHzyFpcVMR9EhcjNjt6ew,"47 Crowfoot Way NW,Calgary,AB,Canada,T3G2L4",51.1238837,-114.2015049,1,T3G 2L4,OK,street_address
+372,ROOFTOP,"47 Paint St, Port Hawkesbury, NS B9A 3J9, Canada",ChIJj2i6bmfiXEsRQBKGUDv3PRY,"47 Paint Street,Port Hawkesbury,NS,Canada,B9A3J9",45.6166333,-61.3333111,1,B9A 3J9,OK,premise
+373,ROOFTOP,"47 Paint St, Port Hawkesbury, NS B9A 3J9, Canada",ChIJj2i6bmfiXEsRQBKGUDv3PRY,"47 Paint Street,Port Hawkesbury,NS,Canada,B9A3J9",45.6166333,-61.3333111,1,B9A 3J9,OK,premise
+374,,,,"470 2nd Hill Rd RR #4,Trenton,ON,Canada,K8V5P7",,,0,,REQUEST_DENIED,
+375,ROOFTOP,"470 Rue Boivin, Granby, QC J2G 5V7, Canada",ChIJb1Zj3FzOyUwRQ1OrKc_t18o,"470 Boulevard Boivin,Granby,QC,Canada,J2G2L5",45.40599479999999,-72.73551619999999,1,J2G 5V7,OK,premise
+376,ROOFTOP,"470 Rue Sainte-Catherine O, Montréal, QC H3B 1A6, Canada",ChIJraeCdUUayUwRDa1cmMQhHQM,"470 RUE SAINT-CATHERINE OUEST,Montreal,QC,Canada,H3B1A7",45.5047187,-73.56791590000002,1,H3B 1A6,OK,premise
+377,ROOFTOP,"470 Topsail Rd, St. John's, NL A1E 2C3, Canada",ChIJ-7AkNjqjDEsRYaOBsxdHnxE,"470 Topsail Road,St. John's,NL,Canada,A1E2C3",47.5333104,-52.75383780000001,1,A1E 2C3,OK,street_address
+378,,,,"4700 Kingsway, #1105,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+379,,,,"4700 Kingsway, #1132,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+380,,,,"4700 Kingsway, #1136,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+381,,,,"4700 Kingsway, #1137,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+382,,,,"4700 Kingsway, #1139,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+383,,,,"4700 Kingsway, #1163,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+384,,,,"4700 Kingsway, #1240,Burnaby,BC,Canada,V5H4M2",,,0,,REQUEST_DENIED,
+385,,,,"4700 Kingsway, #2235,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+386,,,,"4700 Kingsway, #2240,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+387,,,,"4700 Kingsway, #230,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+388,,,,"4700 Kingsway, #4N2,Burnaby,BC,Canada,V5H4N2",,,0,,REQUEST_DENIED,
+389,,,,"4700 Kingsway, #F166B,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+390,,,,"4700 Kingsway, #KM3,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+391,,,,"4700 Kingsway, #TK251,Burnaby,BC,Canada,V5H4M1",,,0,,REQUEST_DENIED,
+392,ROOFTOP,"4701 130 Ave SE, Calgary, AB T2Z 4J2, Canada",ChIJIRN1T513cVMRVYsfwfyEfzA,"4701 - 130 AVE. S.E.,Calgary,AB,Canada,T2Z4J2",50.9314347,-113.96749,1,T2Z 4J2,OK,premise
+393,ROOFTOP,"4702 43 Ave, Cold Lake, AB T9M 1M9, Canada",ChIJBX4W_4jJp1MREDomi4cVgnQ,"4702 43RD AVE,Cold Lake,AB,Canada,T9M1M9",54.4085219,-110.2013629,1,T9M 1M9,OK,premise
+394,ROOFTOP,"4705 130 Ave SE, Calgary, AB T2Z 4J2, Canada",ChIJpRFQ4Jx3cVMRgz8getKBIEg,"4705 130th Ave,Calgary,AB,Canada,T2Z4J2",50.9292398,-113.966538,1,T2Z 4J2,OK,premise
+395,ROOFTOP,"471 Queen St S, Bolton, ON L7E 2B5, Canada",ChIJQzPgUO4hK4gR5nnofGhWZaY,"471 Queen Street S. ,Bolton,ON,Canada,L7E2B5",43.8722244,-79.7253523,1,L7E 2B5,OK,premise
+396,ROOFTOP,"471 Smythe St, Fredericton, NB E3B 3E3, Canada",ChIJdZeETXYipEwRJOkH_LzIssw,"471 Smythe Street,Fredericton,NB,Canada,E3B3E3",45.9584391,-66.6580869,1,E3B 3E3,OK,premise
+397,RANGE_INTERPOLATED,"4710 Keith Ave, Terrace, BC V8G 4K1, Canada",Eis0NzEwIEtlaXRoIEF2ZSwgVGVycmFjZSwgQkMgVjhHIDRLMSwgQ2FuYWRhIhsSGQoUChIJtS86ofKZdFQRKIUY5V8bpY0Q5iQ,"4710 Keith Ave.,Terrace,BC,Canada,V8G4K1",54.5136719,-128.5939501,1,V8G 4K1,OK,street_address
+398,ROOFTOP,"4716 Keith Ave, Terrace, BC V8G 4K1, Canada",ChIJwRxVXu2ZdFQR-4XOXwx4s5A,"4716 Keith Ave.,Terrace,BC,Canada,V8G4K1",54.51366729999999,-128.5943438,1,V8G 4K1,OK,street_address
+399,ROOFTOP,"472 Bayfield St, Barrie, ON L4M 5A2, Canada",ChIJd8zD--6iKogRs79YuVqpZjg,"472 Bayfield Street,Barrie,ON,Canada,L4M5A2",44.4115703,-79.7131953,1,L4M 5A2,OK,street_address
